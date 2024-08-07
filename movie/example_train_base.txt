@@ -1,0 +1,7000 @@
+Label:The Addams Family
+Output: 1. Hollywoodland
+2. Hotel Rwanda
+3. Casino
+4. Fitzcarraldo
+5. A Clockwork Orange
+6. The Firm
+7. Ghost Town
+8. The Wedding Date
+9. Dan in Real Life
+10. He Got Game
+
+
+
+Label:The Greatest Show on Earth
+Output: 1. The Andromeda Strain
+2. Tropic Thunder
+3. The Enemy Below
+4. In a Lonely Place
+5. The Dream Team
+6. The Whistle Blower
+7. The Holcroft Covenant
+8. Deja Vu
+9. Desperate Measures
+10. The Day of the Triffids
+
+
+
+Label:10 Things I Hate About You
+Output: 1. The Girl Next Door
+2. Sunset Blvd.
+3. The Boys from Brazil
+4. Bad Santa
+5. The Mummy: Tomb of the Dragon Emperor
+6. Rabbit-Proof Fence
+7. FLCL
+8. Planes, Trains & Automobiles
+9. Sherlock Holmes and the Secret Weapon
+10. The African Queen
+
+
+
+Label:How to Lose Friends & Alienate People
+Output: 1. Do the Right Thing
+2. In the Name of the King: A Dungeon Siege Tale
+3. The Spanish Prisoner
+4. Angst essen Seele auf
+5. La boum
+6. The Cowboy Way
+7. The Glimmer Man
+8. The Gauntlet
+9. Weekend at Bernie's
+10. Twin Peaks: Fire Walk with Me
+
+
+
+Label:K-PAX
+Output: 1. The Painted Veil
+2. Paris, Texas
+3. The Secret of Roan Inish
+4. The Blue Gardenia
+5. Some Like It Hot
+6. Traffic
+7. The Omen
+8. King Kong
+9. Bridge to Terabithia
+10. The Phantom of the Opera
+
+
+
+Label:Dawn of the Dead
+Output: 1. The Squid and the Whale
+2. The Painted Veil
+3. The Door in the Floor
+4. Laura
+5. The Strange Love of Martha Ivers
+6. The Truth About Cats & Dogs
+7. The Country Girl
+8. The Art of War
+9. The X Files
+10. Hunger
+
+
+
+Label:Death Becomes Her
+Output: 1. Rebel Without a Cause
+2. The Italian Job
+3. The Rock
+4. The Thin Red Line
+5. The Boys of Baraka
+6. The Caine Mutiny
+7. Grosse Pointe Blank
+8. School for Scoundrels
+9. Lord of the Flies
+10. The Butcher Boy
+
+
+
+Label:Spacehunter: Adventures in the Forbidden Zone
+Output: 1. Star Wars: Episode VI - Return of the Jedi
+2. Contact
+3. The Big Sleep
+4. Flash Gordon
+5. Terminator Salvation
+6. The Ring
+7. Spy Kids 2: Island of Lost Dreams
+8. Aquamarine
+9. Stuart Little 2
+10. The Grass Harp
+
+
+
+Label:Victory
+Output: 1. The Departed
+2. The Truman Show
+3. Eternal Sunshine of the Spotless Mind
+4. The Princess Bride
+5. Rat Race
+6. The Dead Zone
+7. The Emperor's Club
+8. The Spirit of '76
+9. The House of Mirth
+10. Abre los ojos
+
+
+
+Label:My Baby's Daddy
+Output: 1. Natural Born Killers
+2. Dark City
+3. Goldfinger
+4. Monsoon Wedding
+5. The High and the Mighty
+6. The Covenant
+7. Born Yesterday
+8. The Tailor of Panama
+9. Broken Blossoms or The Yellow Man and the Girl
+10. Car Wash
+
+
+
+Label:Syriana
+Output: 1. Blade Runner
+2. Mystic River
+3. Vertigo
+4. Jackie Brown
+5. Miami Vice
+6. Before Sunset
+7. The Sting
+8. The Mission
+9. Fast Times at Ridgemont High
+10. The Spiderwick Chronicles
+
+
+
+Label:The Bank Job
+Output: 1. Apollo 13
+2. Hoop Dreams
+3. Rosemary's Baby
+4. The Perfect Storm
+5. Free Willy
+6. The Bank Job
+7. Enchanted
+8. Harold & Kumar Go to White Castle
+9. Bad Santa
+10. The Legend of Bagger Vance
+
+
+
+Label:Deuce Bigalow: European Gigolo
+Output: 1. Shaun of the Dead
+2. Step Brothers
+3. The Man Who Knew Too Much
+4. Marathon Man
+5. The African Queen
+6. The Negotiator
+7. The Deep End of the Ocean
+8. My Cousin Vinny
+9. Casino Royale
+10. The Blob
+
+
+
+Label:Christmas Vacation
+Output: 1. Chinatown
+2. The Lost Boys
+3. Halloween H20: 20 Years Later
+4. The Incredible Hulk
+5. South Park: Bigger Longer & Uncut
+6. Flushed Away
+7. 300
+8. Trembling Before G-d
+9. Do the Right Thing
+10. Lock, Stock and Two Smoking Barrels
+
+
+
+Label:Death Proof
+Output: 1. The Holiday
+2. Bean
+3. Mrs Palfrey at The Claremont
+4. The Truth About Cats & Dogs
+5. Alphaville, une étrange aventure de Lemmy Caution
+6. Aquamarine
+7. The One
+8. Destiny in Space
+9. Shun liu Ni liu
+10. L'appartement
+
+
+
+Label:Forrest Gump
+Output: 1. Lost in La Mancha
+2. Munich
+3. The Fly
+4. Postcards from the Edge
+5. The Bourne Identity
+6. Moonstruck
+7. Forrest Gump
+8. Smoke
+9. Stranger Than Fiction
+10. Meet the Parents
+
+
+
+Label:The Mothman Prophecies
+Output: 1. Gangs of New York
+2. The Mothman Prophecies
+3. Caché
+4. Journey to the Center of the Earth
+5. The Ballad of Little Jo
+6. Love Serenade
+7. The Accused
+8. K-19: The Widowmaker
+9. Rush Hour 3
+10. Garden State
+
+
+
+Label:Vacancy
+Output: 1. Star Wars: Episode III - Revenge of the Sith
+2. The Mummy
+3. The Sword in the Stone
+4. Total Recall
+5. The Holiday
+6. Beowulf
+7. The Cable Guy
+8. Road to Morocco
+9. Vacancy
+10. The Saddest Music in the World
+
+
+
+Label:Internal Affairs
+Output: 1. The Mask
+2. Gladiator
+3. Star Wars: Episode III - Revenge of the Sith
+4. Romper Stomper
+5. The Guardian
+6. Once Were Warriors
+7. The Scarlet and the Black
+8. The Land Before Time III: The Time of the Great Giving
+9. The Snow Walker
+10. Stone Reader
+
+
+
+Label:Pearl Harbor
+Output: 1. The Frighteners
+2. The Vampire Lovers
+3. The Pink Panther Strikes Again
+4. The Devil's Rejects
+5. The Lake House
+6. Jumper
+7. The Last Days of Disco
+8. The Basketball Diaries
+9. Peggy Sue Got Married
+10. Catch Me If You Can
+
+
+
+Label:Gangs of New York
+Output: 1. The Big Chill
+2. The Bourne Ultimatum
+3. Runaway Jury
+4. Mona Lisa Smile
+5. American Pie
+6. Gangs of New York
+7. Star Trek: Generations
+8. King Kong
+9. Easy Rider
+10. Modern Times
+
+
+
+Label:Life of Brian
+Output: 1. In Bruges
+2. Caché
+3. Monsoon Wedding
+4. The English Patient
+5. The Adventures of Robin Hood
+6. Life of Brian
+7. The Phantom of the Opera
+8. The Twelve Chairs
+9. The Shootist
+10. The Cotton Club
+
+
+
+Label:Blazing Saddles
+Output: 1. The Piano
+2. Frida
+3. My Own Private Idaho
+4. The Little Shop of Horrors
+5. Wuthering Heights
+6. The Englishman Who Went Up a Hill But Came Down a Mountain
+7. Baghead
+8. Come September
+9. The Browning Version
+10. Ferris Bueller's Day Off
+
+
+
+Label:Spider-Man
+Output: 1. Scream
+2. Repo Man
+3. The Man Who Came to Dinner
+4. The Adventures of Huck Finn
+5. Gunga Din
+6. Castle Freak
+7. Manon des sources
+8. Bang Bang You're Dead
+9. Saraband
+10. Black Christmas
+
+
+
+Label:Top Gun
+Output: 1. Femme Fatale
+2. The Designated Mourner
+3. The Lodger
+4. Popiól i diament
+5. Superman II
+6. Hard Candy
+7. La pianiste
+8. One Hour Photo
+9. Everything Is Illuminated
+10. The Meaning of Life
+
+
+
+Label:Payback
+Output: 1. Magnolia
+2. Monty Python's Flying Circus
+3. Some Like It Hot
+4. The Sword in the Stone
+5. Star Trek
+6. Colors
+7. The Postman
+8. Broadcast News
+9. Galaxy Quest
+10. The Girl Next Door
+
+
+
+Label:Pale Rider
+Output: 1. Pale Rider
+2. High Plains Drifter
+3. Unforgiven
+4. The Man with Two Brains
+5. The Last Supper
+6. The In-Laws
+7. Lone Wolf McQuade
+8. Prince of the City
+9. Objective, Burma!
+10. Dr. No
+
+
+
+Label:The Golden Compass
+Output: 1. The Machinist
+2. The Darjeeling Limited
+3. The Howling
+4. Dogtown and Z-Boys
+5. Hellboy II: The Golden Army
+6. The Sea Wolves
+7. Prince of the City
+8. Super Troopers
+9. Sink the Bismarck!
+10. The Wild Parrots of Telegraph Hill
+
+
+
+Label:Crash
+Output: 1. The Bank Job
+2. Lady in the Water
+3. Hollywood Shuffle
+4. In the Company of Men
+5. Zéro de conduite: Jeunes diables au collège
+6. High School Musical
+7. The American President
+8. Braveheart
+9. Tears of the Sun
+10. The Rocketeer
+
+
+
+Label:Closer
+Output: 1. Parasite
+2. Modern Times
+3. The Man Who Wasn't There
+4. The Spanish Prisoner
+5. Hiroshima mon amour
+6. The Hours
+7. Changeling
+8. The Merchant of Venice
+9. Eye for an Eye
+10. Jin-Rô
+
+
+
+Label:A Civil Action
+Output: 1. Taxi Driver
+2. The Grand
+3. The Escapist
+4. The Vanishing
+5. Savior
+6. Short Cuts
+7. Bully
+8. The Assassination of Richard Nixon
+9. Cheung Gong 7 hou
+10. The Desert Fox: The Story of Rommel
+
+
+
+Label:Soul Man
+Output: 1. The Daytrippers
+2. Dan in Real Life
+3. Diabolique
+4. The Crossing Guard
+5. Blood Diamond
+6. Thir13en Ghosts
+7. Nightmare Alley
+8. The Boondock Saints
+9. Rio Bravo
+10. The Bank Dick
+
+
+
+Label:The Treasure of the Sierra Madre
+Output: 1. The Treasure of the Sierra Madre
+2. The Outsiders
+3. The Illusionist
+4. The Assassination of Jesse James by the Coward Robert Ford
+5. The Gunfighter
+6. The Draughtsman's Contract
+7. In a Lonely Place
+8. War of the Worlds
+9. On Her Majesty's Secret Service
+10. The Beguiled
+
+
+
+Label:El laberinto del fauno
+Output: 1. The Game
+2. The Princess Bride
+3. The Maltese Falcon
+4. Starship Troopers
+5. Les amants du Pont-Neuf
+6. El laberinto del fauno
+7. The Belly of an Architect
+8. The Presidio
+9. Jésus de Montréal
+10. In the Mouth of Madness
+
+
+
+Label:The Pianist
+Output: 1. The Pianist
+2. Léon
+3. The Man with Two Brains
+4. Diabolique
+5. Full Metal Jacket
+6. Witness for the Prosecution
+7. Rebecca
+8. Troy
+9. Kill Bill: Vol. 2
+10. Das Leben der Anderen
+
+
+
+Label:Tristan + Isolde
+Output: 1. The Little Mermaid
+2. The Pink Panther
+3. The Quick and the Dead
+4. The Bone Collector
+5. Face/Off
+6. Flushed Away
+7. Good Burger
+8. Rules of Engagement
+9. Going in Style
+10. The Ice Harvest
+
+
+
+Label:Bill & Ted's Bogus Journey
+Output: 1. The Full Monty
+2. Reality Bites
+3. Crash
+4. Batman Begins
+5. The Sixth Sense
+6. Fargo
+7. Out of Sight
+8. Treasure Planet
+9. Blood Simple.
+10. The House Bunny
+
+
+
+Label:The Gold Rush
+Output: 1. Bringing Up Baby
+2. The Full Monty
+3. The Gold Rush
+4. Psycho
+5. Metropolis
+6. The Dark Crystal
+7. The Hunchback of Notre Dame
+8. Calendar Girls
+9. The Thief of Bagdad
+10. L'atalante
+
+
+
+Label:Pearl Harbor
+Output: 1. In the Shadow of the Moon
+2. The Big Sleep
+3. The Deer Hunter
+4. Pearl Harbor
+5. Rope
+6. The 39 Steps
+7. L'enfant
+8. Manon des sources
+9. Dom za vesanje
+10. Dracula
+
+
+
+Label:Wonderful Days
+Output: 1. Cléo de 5 à 7
+2. Requiem for a Dream
+3. The Hunchback of Notre Dame
+4. The Long Goodbye
+5. Romeo + Juliet
+6. The Station Agent
+7. Blue in the Face
+8. The Court Jester
+9. My Favorite Year
+10. Death Defying Acts
+
+
+
+Label:The Boys of Baraka
+Output: 1. An Officer and a Gentleman
+2. The Beach
+3. The Game
+4. The Boys of Baraka
+5. The Road to El Dorado
+6. Brighton Beach Memoirs
+7. Rachel Getting Married
+8. Apollo 13
+9. Midnight Cowboy
+10. Lara Croft: Tomb Raider
+
+
+
+Label:Nueve reinas
+Output: 1. The World of Henry Orient
+2. The House of Mirth
+3. Nueve reinas
+4. Est - Ouest
+5. Blue Car
+6. Solyaris
+7. Jo Jo Dancer, Your Life Is Calling
+8. Must Love Dogs
+9. The Nomi Song
+10. Bob Roberts
+
+
+
+Label:Shi mian mai fu
+Output: 1. Hauru no ugoku shiro
+2. Persepolis
+3. Picnic at Hanging Rock
+4. Greyfriars Bobby: The True Story of a Dog
+5. Changeling
+6. Body Heat
+7. Mannequin
+8. Restoration
+9. Inland Empire
+10. Dead Man
+
+
+
+Label:KISS Meets the Phantom of the Park
+Output: 1. One Flew Over the Cuckoo's Nest
+2. The Usual Suspects
+3. Jumanji
+4. The Hitcher
+5. Dazed and Confused
+6. Romeo + Juliet
+7. Monster House
+8. The Phantom of the Opera
+9. The Hole
+10. The Trials of Henry Kissinger
+
+
+
+Label:Up the Yangtze
+Output: 1. Stand by Me
+2. Fried Green Tomatoes
+3. Fantasia
+4. Heathers
+5. The Count of Monte Cristo
+6. Gardens of Stone
+7. Nell
+8. The Deer Hunter
+9. The Secret Life of Words
+10. Music Box
+
+
+
+Label:Superman
+Output: 1. Man on Wire
+2. Little Women
+3. The Outsiders
+4. Prick Up Your Ears
+5. My Name Is Bruce
+6. I Confess
+7. Nueve reinas
+8. Deathtrap
+9. Jesus Camp
+10. After Dark, My Sweet
+
+
+
+Label:Rambo
+Output: 1. Los lunes al sol
+2. Before Night Falls
+3. The Return of a Man Called Horse
+4. La double vie de Véronique
+5. The Ballad of Little Jo
+6. Little Children
+7. Gone Fishin'
+8. Amandla! A Revolution in Four Part Harmony
+9. Pollyanna
+10. Eight Crazy Nights
+
+
+
+Label:I soliti ignoti
+Output: 1. Harry Potter and the Prisoner of Azkaban
+2. The Day the Earth Stood Still
+3. The Dark Crystal
+4. The Little Mermaid: Ariel's Beginning
+5. The Lone Ranger
+6. Sister Act
+7. The Magdalene Sisters
+8. Shadows and Fog
+9. Lawless Heart
+10. The Butcher Boy
+
+
+
+Label:The Prince of Egypt
+Output: 1. Brokeback Mountain
+2. Stranger Than Paradise
+3. Malcolm X
+4. Tesis
+5. Interview
+6. Water
+7. Ripley's Game
+8. Birdy
+9. The Karate Kid
+10. L.I.E.
+
+
+
+Label:Torn Curtain
+Output: 1. Les misérables
+2. Belle de jour
+3. Mrs. Doubtfire
+4. Dave
+5. The Devil Wears Prada
+6. Ben-Hur
+7. Frida
+8. The Lady Vanishes
+9. The Secret Life of Bees
+10. Monster's Ball
+
+
+
+Label:A Room with a View
+Output: 1. The Big Sleep
+2. Sherlock Jr.
+3. Sonatine
+4. Made in America
+5. The Last Man on Earth
+6. The Recruit
+7. Hammett
+8. Manhattan Murder Mystery
+9. Jason's Lyric
+10. Death Proof
+
+
+
+Label:Used Cars
+Output: 1. The Manchurian Candidate
+2. The Simpsons Movie
+3. Click
+4. Meet the Robinsons
+5. The Power of One
+6. Final Fantasy: The Spirits Within
+7. Ghost Dog: The Way of the Samurai
+8. Bend of the River
+9. Once
+10. Dodsworth
+
+
+
+Label:Scream
+Output: 1. The Machinist
+2. Dancer in the Dark
+3. Juno and the Paycock
+4. The Dresser
+5. The Phantom of the Opera
+6. Clockstoppers
+7. The Tin Star
+8. The Pawnbroker
+9. The Major and the Minor
+10. Le temps qui reste
+
+
+
+Label:Magnolia
+Output: 1. Gladiator
+2. Adaptation.
+3. Magnolia
+4. The Thomas Crown Affair
+5. Dogville
+6. Fallen
+7. Les diaboliques
+8. Kontroll
+9. Mysterious Skin
+10. Diabolique
+
+
+
+Label:Eastern Promises
+Output: 1. Eastern Promises
+2. The Dark Crystal
+3. The Wackness
+4. Last Action Hero
+5. The Golden Compass
+6. Hurlyburly
+7. Kagemusha
+8. Wise Blood
+9. Mononoke-hime
+10. Dot the I
+
+
+
+Label:Hideaway
+Output: 1. Election
+2. The Departed
+3. Full Frontal
+4. Grosse Pointe Blank
+5. The Verdict
+6. The Cell
+7. The Curse of the Jade Scorpion
+8. Flight of the Navigator
+9. Code 46
+10. Mambo italiano
+
+
+
+Label:Gone with the Wind
+Output: 1. Frequency
+2. Half Nelson
+3. Dogville
+4. United 93
+5. The Legend of Bagger Vance
+6. Catch and Release
+7. Crash
+8. Rabbit-Proof Fence
+9. Million Dollar Baby
+10. The Good Son
+
+
+
+Label:Groundhog Day
+Output: 1. Battlestar Galactica: Razor
+2. Cape Fear
+3. Windtalkers
+4. Transformers
+5. Mindwalk
+6. Badlands
+7. Enter the Dragon
+8. Live and Let Die
+9. Groundhog Day
+10. Mystery Men
+
+
+
+Label:Casino
+Output: 1. The Notebook
+2. Casino
+3. X-Men
+4. The King of Comedy
+5. The Usual Suspects
+6. The Matrix Reloaded
+7. Rush Hour 3
+8. The Curse of the Jade Scorpion
+9. The Road to El Dorado
+10. The Hunchback of Notre Dame
+
+
+
+Label:Keeping the Faith
+Output: 1. Rushmore
+2. The Man from Earth
+3. The Last Supper
+4. The Boston Strangler
+5. The Million Dollar Hotel
+6. The Omega Code
+7. The Secret Garden
+8. Lagaan: Once Upon a Time in India
+9. The Wicker Man
+10. Bandit Queen
+
+
+
+Label:Platoon
+Output: 1. Platoon
+2. Indochine
+3. The Great Santini
+4. Nightmare Alley
+5. The Children's Hour
+6. Torn Curtain
+7. Money for Nothing
+8. House of the Dead
+9. Catch That Kid
+10. Used Cars
+
+
+
+Label:Shrek the Third
+Output: 1. The Wrestler
+2. Heavenly Creatures
+3. The Prestige
+4. Matchstick Men
+5. The Namesake
+6. Love Don't Cost a Thing
+7. The House of Yes
+8. Men of Honor
+9. Flirting with Disaster
+10. Auntie Mame
+
+
+
+Label:Dumbo
+Output: 1. La planète sauvage
+2. Silent Running
+3. The Holy Mountain
+4. A Clockwork Orange
+5. Ghost World
+6. The Eyes of Tammy Faye
+7. Dumbo
+8. The Devil's Own
+9. Naked Lunch
+10. Con Air
+
+
+
+Label:The Salton Sea
+Output: 1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+2. Batman Begins
+3. Dirty Dancing: Havana Nights
+4. The Mountain Men
+5. The Hard Word
+6. Quadrophenia
+7. Chinese Box
+8. Sahara
+9. 'I Know Where I'm Going!'
+10. Safe Passage
+
+
+
+Label:August Rush
+Output: 1. The Shawshank Redemption
+2. Serpico
+3. The Killing Fields
+4. The Gold Rush
+5. The SpongeBob SquarePants Movie
+6. Hannibal Rising
+7. Windtalkers
+8. Clay Pigeons
+9. August Rush
+10. The Haunted Mansion
+
+
+
+Label:The Grudge
+Output: 1. Back to the Future
+2. Terminator 2: Judgment Day
+3. Pirates of the Caribbean: The Curse of the Black Pearl
+4. Blade II
+5. The Truman Show
+6. Full Metal Jacket
+7. The Grudge
+8. The Englishman Who Went Up a Hill But Came Down a Mountain
+9. Ladyhawke
+10. The Deep End of the Ocean
+
+
+
+Label:Three Kings
+Output: 1. Mean Streets
+2. Clockwise
+3. Stripes
+4. The Omen
+5. The Prince of Egypt
+6. Indiana Jones and the Last Crusade
+7. Highlander III: The Sorcerer
+8. Cujo
+9. The Wrong Guy
+10. The Glimmer Man
+
+
+
+Label:Bullitt
+Output: 1. Blade Runner
+2. Strangers on a Train
+3. The Exorcist III
+4. Rebel Without a Cause
+5. The Aviator
+6. The Dark Half
+7. Don't Look Now
+8. Paper Moon
+9. Stagecoach
+10. Bullitt
+
+
+
+Label:Lethal Weapon
+Output: 1. Men in Black
+2. Lethal Weapon
+3. The Frighteners
+4. The Night Listener
+5. The Quick and the Dead
+6. Batman
+7. Sphere
+8. Sneakers
+9. GoldenEye
+10. Strangers on a Train
+
+
+
+Label:Croupier
+Output: 1. The Karate Kid
+2. A Star Is Born
+3. The Vanishing
+4. The Glass House
+5. The Little Rascals
+6. Spider-Man 3
+7. The Seeker: The Dark Is Rising
+8. Morvern Callar
+9. Heartbreak Hotel
+10. Alice Doesn't Live Here Anymore
+
+
+
+Label:The Number 23
+Output: 1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+2. Romeo + Juliet
+3. Glengarry Glen Ross
+4. Four Weddings and a Funeral
+5. Marie Antoinette
+6. Wild at Heart
+7. American Psycho II: All American Girl
+8. Educating Rita
+9. Birdy
+10. House of Sand and Fog
+
+
+
+Label:The Witches of Eastwick
+Output: 1. Singin' in the Rain
+2. The Grapes of Wrath
+3. The Witches of Eastwick
+4. The Spy Who Came in from the Cold
+5. Bride of Frankenstein
+6. A Bug's Life
+7. Die Hard: With a Vengeance
+8. What's Up, Doc?
+9. The Fugitive
+10. Choses secrètes
+
+
+
+Label:Without a Paddle
+Output: 1. Psycho
+2. Manhattan
+3. Logan's Run
+4. Who Framed Roger Rabbit
+5. E.T.: The Extra-Terrestrial
+6. The Royal Tenenbaums
+7. Road to Perdition
+8. Sixteen Candles
+9. Ace Ventura: Pet Detective
+10. I Still Know What You Did Last Summer
+
+
+
+Label:What's Eating Gilbert Grape
+Output: 1. Mystic River
+2. The Spanish Prisoner
+3. The People vs. Larry Flynt
+4. Dead Ringers
+5. The Corporation
+6. The New World
+7. Bobby Jones: Stroke of Genius
+8. Killing Me Softly
+9. Pirates of the Caribbean: At World's End
+10. King Kong
+
+
+
+Label:Hairspray
+Output: 1. Låt den rätte komma in
+2. The Last Emperor
+3. 12 Angry Men
+4. Citizen Kane
+5. Rebecca
+6. The Money Pit
+7. The Great Waldo Pepper
+8. Miss Pettigrew Lives for a Day
+9. Thunderbolt and Lightfoot
+10. The Wild Parrots of Telegraph Hill
+
+
+
+Label:Frequency
+Output: 1. The Killing Fields
+2. Dracula: Pages from a Virgin's Diary
+3. Predator
+4. Man on the Moon
+5. American History X
+6. The Gauntlet
+7. The Art of War
+8. Dog Soldiers
+9. Romero
+10. The Blood of Heroes
+
+
+
+Label:Moonraker
+Output: 1. La double vie de Véronique
+2. Tampopo
+3. The Life and Times of Judge Roy Bean
+4. Le boucher
+5. They Live
+6. Erik the Viking
+7. My Cousin Vinny
+8. Kafka
+9. Shoot 'Em Up
+10. Brokedown Palace
+
+
+
+Label:Vampiros lesbos
+Output: 1. Shrek
+2. Kung fu
+3. Megamind
+4. Team America: World Police
+5. The Hitch-Hiker
+6. The Big Heat
+7. True Believer
+8. Let It Ride
+9. Fool for Love
+10. Black Robe
+
+
+
+Label:The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+Output: 1. Into the Wild
+2. The Age of Innocence
+3. Cape Fear
+4. The Machinist
+5. Syriana
+6. The Squid and the Whale
+7. The Aristocrats
+8. Fun with Dick and Jane
+9. The Thin Man
+10. Singin' in the Rain
+
+
+
+Label:Amistad
+Output: 1. Edward Scissorhands
+2. Almost Famous
+3. The Princess Diaries 2: Royal Engagement
+4. Pirates of the Caribbean: The Curse of the Black Pearl
+5. Young Guns
+6. The Ghost and the Darkness
+7. The Muppet Movie
+8. From Hell
+9. Modern Times
+10. Madame Sousatzka
+
+
+
+Label:The Shawshank Redemption
+Output: 1. The Shawshank Redemption
+2. Apollo 13
+3. V for Vendetta
+4. Big Fish
+5. Into the Woods
+6. Red Eye
+7. The Matador
+8. Dreamer: Inspired by a True Story
+9. Saw IV
+10. The Panic in Needle Park
+
+
+
+Label:Mannequin
+Output: 1. Juno
+2. A Room with a View
+3. Jackie Brown
+4. The Hours
+5. North Country
+6. Groundhog Day
+7. The Hunchback of Notre Dame
+8. Star Wars: Episode I - The Phantom Menace
+9. Iron Eagle
+10. King Kong
+
+
+
+Label:Chung Hing sam lam
+Output: 1. Citizen Kane
+2. Magnolia
+3. Breakfast on Pluto
+4. Terms of Endearment
+5. Truth or Consequences, N.M.
+6. The Blair Witch Project
+7. The Running Man
+8. The Freshman
+9. The Santa Clause 3: The Escape Clause
+10. Aqua Teen Hunger Force Colon Movie Film for Theaters
+
+
+
+Label:Lilies of the Field
+Output: 1. Following
+2. The Anarchist Cookbook
+3. Get Real
+4. The AristoCats
+5. Pal Joey
+6. Stakeout
+7. Force of Evil
+8. Jason Lives: Friday the 13th Part VI
+9. The Abominable Dr. Phibes
+10. Big Daddy
+
+
+
+Label:S.W.A.T.
+Output: 1. The Pianist
+2. On the Waterfront
+3. Le fabuleux destin d'Amélie Poulain
+4. The Princess Diaries
+5. Hook
+6. The Heiress
+7. The Last Legion
+8. The Darjeeling Limited
+9. 42nd Street
+10. Local Hero
+
+
+
+Label:First Blood
+Output: 1. The Third Man
+2. The Hustler
+3. The Jazz Singer
+4. The Adventures of Huck Finn
+5. The World of Henry Orient
+6. Monty Python's Flying Circus
+7. Palmetto
+8. Oklahoma!
+9. Canadian Bacon
+10. Sexy Beast
+
+
+
+Label:The Big Country
+Output: 1. The Maltese Falcon
+2. The Man with the Golden Gun
+3. The Big Country
+4. War of the Worlds
+5. Frantic
+6. Brigadoon
+7. Persepolis
+8. Primer
+9. Vision Quest
+10. Bedknobs and Broomsticks
+
+
+
+Label:Star Wars
+Output: 1. Star Wars
+2. Munich
+3. Total Recall
+4. The Bourne Identity
+5. Flight of the Intruder
+6. The Love Bug
+7. The Tuxedo
+8. Venom
+9. Domestic Disturbance
+10. Rush Hour 3
+
+
+
+Label:Force 10 from Navarone
+Output: 1. Disturbia
+2. X-Men
+3. The Lost World: Jurassic Park
+4. Resident Evil: Apocalypse
+5. Die Büchse der Pandora
+6. The Karate Kid
+7. A Bridge Too Far
+8. The Phantom of the Opera
+9. Monsoon Wedding
+10. No Reservations
+
+
+
+Label:Blues Brothers 2000
+Output: 1. The Ring
+2. Halloween
+3. The Gift
+4. The Guardian
+5. The Rules of Attraction
+6. Ocean's Twelve
+7. Bonnie and Clyde
+8. Back to the Future Part II
+9. Rocky
+10. Men with Guns
+
+
+
+Label:Duel
+Output: 1. Star Wars: Episode II - Attack of the Clones
+2. The Pursuit of Happyness
+3. Jesus Camp
+4. The Contender
+5. The Dead Pool
+6. Footloose
+7. Dog Day Afternoon
+8. Clerks.
+9. The Siege
+10. X-Men: The Last Stand
+
+
+
+Label:It Could Happen to You
+Output: 1. WALL·E
+2. The Pursuit of Happyness
+3. The Last King of Scotland
+4. The Last Seduction
+5. The Bridge at Remagen
+6. Mulholland Dr.
+7. GoldenEye
+8. Nixon
+9. The Unbearable Lightness of Being
+10. Kaze no tani no Naushika
+
+
+
+Label:Little Miss Sunshine
+Output: 1. The Usual Suspects
+2. Abre los ojos
+3. Lost & Found
+4. Little Miss Sunshine
+5. The Beach
+6. The Invisible
+7. The House of the Spirits
+8. All the President's Men
+9. Notes on a Scandal
+10. The Upside of Anger
+
+
+
+Label:Catch Me If You Can
+Output: 1. The Black Cauldron
+2. Magnolia
+3. Catch Me If You Can
+4. The Full Monty
+5. Show Boat
+6. The Kingdom
+7. Malèna
+8. Cat on a Hot Tin Roof
+9. Smilla's Sense of Snow
+10. The Tuxedo
+
+
+
+Label:Scarface
+Output: 1. Scarface
+2. Apollo 13
+3. Anatomy of a Murder
+4. The Beach
+5. Goodfellas
+6. The Fall
+7. Scream
+8. Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+9. Red Dragon
+10. L'avventura
+
+
+
+Label:Per qualche dollaro in più
+Output: 1. The Big Lebowski
+2. Zoolander
+3. High Fidelity
+4. Murder by Numbers
+5. O Brother, Where Art Thou?
+6. The Straight Story
+7. Flash Gordon
+8. Night of the Living Dead
+9. Gremlins 2: The New Batch
+10. Jumanji
+
+
+
+Label:Children of Men
+Output: 1. Heathers
+2. Brokeback Mountain
+3. The Wicker Man
+4. Zelig
+5. Das Testament des Dr. Mabuse
+6. La battaglia di Algeri
+7. Children of Men
+8. Talvisota
+9. Janghwa, Hongryeon
+10. In America
+
+
+
+Label:Pay It Forward
+Output: 1. Ghost World
+2. The Big Sleep
+3. The Birdcage
+4. Lord of the Flies
+5. The Frighteners
+6. The Prince & Me
+7. The Day the Earth Stood Still
+8. Star Wars: Episode V - The Empire Strikes Back
+9. The Blues Brothers
+10. The Castle
+
+
+
+Label:Exorcist: The Beginning
+Output: 1. The Bourne Identity
+2. Rush Hour 3
+3. The Passion of the Christ
+4. Dracula
+5. The Secret of Roan Inish
+6. City Lights
+7. Cyrano de Bergerac
+8. The Human Stain
+9. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+10. Flight of the Navigator
+
+
+
+Label:True Lies
+Output: 1. Perfume: The Story of a Murderer
+2. Devil in a Blue Dress
+3. True Lies
+4. Law & Order: Special Victims Unit
+5. Backdraft
+6. The Lady Eve
+7. Collateral Damage
+8. The Omen
+9. Needful Things
+10. Gorillas in the Mist: The Story of Dian Fossey
+
+
+
+Label:La sindrome di Stendhal
+Output: 1. The Fall
+2. Ghost Dog: The Way of the Samurai
+3. The Long Good Friday
+4. La mala educación
+5. El espinazo del diablo
+6. Chûshingura
+7. Dance of the Vampires
+8. The Sound of Music
+9. Anne of the Thousand Days
+10. Henry V
+
+
+
+Label:Silent Hill
+Output: 1. Blue Velvet
+2. Broken Flowers
+3. The Mission
+4. Wallace & Gromit in The Curse of the Were-Rabbit
+5. Field of Dreams
+6. Broadcast News
+7. The Simpsons Movie
+8. The Ghost and Mrs. Muir
+9. The Adventures of Sherlock Holmes
+10. The Hudsucker Proxy
+
+
+
+Label:House of Sand and Fog
+Output: 1. Con Air
+2. The X Files
+3. The Iron Horse
+4. The Adventures of Buckaroo Banzai Across the 8th Dimension
+5. The Statement
+6. Night on Earth
+7. Sherlock Holmes and the Voice of Terror
+8. Fever Pitch
+9. The Road to El Dorado
+10. Lost in Space
+
+
+
+Label:Blood Diamond
+Output: 1. Dog Day Afternoon
+2. Blood Diamond
+3. Seven Pounds
+4. Carnal Knowledge
+5. They Shoot Horses, Don't They?
+6. Runaway Jury
+7. Mystery, Alaska
+8. Courage Under Fire
+9. Monsieur Ibrahim et les fleurs du Coran
+10. Interview with the Vampire: The Vampire Chronicles
+
+
+
+Label:Get Shorty
+Output: 1. Die Hard
+2. Man on the Moon
+3. Starship Troopers
+4. Mindhunters
+5. Batman Forever
+6. The Rocker
+7. The Commitments
+8. Disclosure
+9. Get Shorty
+10. UHF
+
+
+
+Label:Dirty Dancing
+Output: 1. The Purple Rose of Cairo
+2. Pleasantville
+3. The Break-Up
+4. Dirty Dancing
+5. Hoffa
+6. Bring It On
+7. Rock 'n' Roll High School
+8. Ginger Snaps Back: The Beginning
+9. Pépé le Moko
+10. Poseidon
+
+
+
+Label:Batman Begins
+Output: 1. Insomnia
+2. Heat
+3. The Maltese Falcon
+4. Batman Begins
+5. The Hours
+6. Before Sunset
+7. Inland Empire
+8. The Importance of Being Earnest
+9. WarGames
+10. 2001: A Space Odyssey
+
+
+
+Label:Barbershop 2: Back in Business
+Output: 1. The Sandlot
+2. Romy and Michele's High School Reunion
+3. Ironweed
+4. The January Man
+5. Solo
+6. Witchfinder General
+7. The Chronicles of Narnia: Prince Caspian
+8. Mamma Roma
+9. Tenkû no shiro Rapyuta
+10. Made for Each Other
+
+
+
+Label:Rambo III
+Output: 1. The Lord of the Rings: The Return of the King
+2. Sin City
+3. The Nightmare Before Christmas
+4. DragonHeart
+5. Treasure Planet
+6. Clockwise
+7. The Girl Next Door
+8. Angels in America
+9. The Scarlet Letter
+10. Quiz Show
+
+
+
+Label:Hannah and Her Sisters
+Output: 1. Serendipity
+2. The Trip to Bountiful
+3. Rebecca
+4. Shadow of the Vampire
+5. The Lady from Shanghai
+6. Hannah and Her Sisters
+7. Risky Business
+8. American History X
+9. Shadow of a Doubt
+10. The Big Sleep
+
+
+
+Label:The Godfather
+Output: 1. The Godfather
+2. The Notebook
+3. Dirty Deeds
+4. American Gigolo
+5. The Black Dahlia
+6. Love Is the Devil: Study for a Portrait of Francis Bacon
+7. Evening
+8. Copycat
+9. Oscar and Lucinda
+10. Starting Out in the Evening
+
+
+
+Label:Tears of the Sun
+Output: 1. The Devil Wears Prada
+2. Magnolia
+3. The Rock
+4. The Life Aquatic with Steve Zissou
+5. Broken Flowers
+6. Barry Lyndon
+7. The Girl Next Door
+8. Flight of the Phoenix
+9. Enemy at the Gates
+10. Låt den rätte komma in
+
+
+
+Label:The Silence of the Lambs
+Output: 1. The Sound of Music
+2. The Silence of the Lambs
+3. Mystic Pizza
+4. The Poseidon Adventure
+5. The Adventures of Priscilla, Queen of the Desert
+6. Dracula
+7. The Most Dangerous Game
+8. Death on the Nile
+9. The Gunfighter
+10. The Dogs of War
+
+
+
+Label:The Village
+Output: 1. Being John Malkovich
+2. The Last Samurai
+3. The Darjeeling Limited
+4. The Big Sleep
+5. Persona
+6. The Right Stuff
+7. The Endurance: Shackleton's Legendary Antarctic Expedition
+8. Noises Off...
+9. American Beauty
+10. Cinderella Man
+
+
+
+Label:To Catch a Thief
+Output: 1. Eagle Eye
+2. FernGully: The Last Rainforest
+3. Satisfaction
+4. The Saint
+5. The Company
+6. Awake
+7. The Object of Beauty
+8. Chicago
+9. Shadow of the Vampire
+10. Autumn in New York
+
+
+
+Label:Indiana Jones and the Kingdom of the Crystal Skull
+Output: 1. Rent
+2. L'avventura
+3. Napoleon Dynamite
+4. Old Joy
+5. The Panic in Needle Park
+6. Die Sehnsucht der Veronika Voss
+7. The Comancheros
+8. Bella Martha
+9. Fong Sai Yuk
+10. The Island of Dr. Moreau
+
+
+
+Label:Jarhead
+Output: 1. The Royal Tenenbaums
+2. The Straight Story
+3. High Fidelity
+4. Bedazzled
+5. Lakeboat
+6. The Banger Sisters
+7. Forget Paris
+8. The Dark Half
+9. Red Rock West
+10. Smart People
+
+
+
+Label:Big
+Output: 1. Short Cuts
+2. Wristcutters: A Love Story
+3. 'Round Midnight
+4. Mujeres al borde de un ataque de nervios
+5. Two Girls and a Guy
+6. There Will Be Blood
+7. Mystery Men
+8. Election
+9. Boksuneun naui geot
+10. Holy Man
+
+
+
+Label:The Forgotten
+Output: 1. La historia oficial
+2. Seraphim Falls
+3. Nostalgia Boy
+4. Le monde selon Bush
+5. House of Wax
+6. Theremin: An Electronic Odyssey
+7. Blow
+8. Boomerang
+9. Mortal Kombat
+10. Children of the Revolution
+
+
+
+Label:Eight Legged Freaks
+Output: 1. Click
+2. How the Grinch Stole Christmas
+3. Gremlins
+4. Megamind
+5. Face/Off
+6. Gladiator
+7. Rushmore
+8. Contact
+9. The Bucket List
+10. Memoirs of a Geisha
+
+
+
+Label:Inside Man
+Output: 1. Boyz n the Hood
+2. The Dish
+3. Le notti di Cabiria
+4. Toy Story
+5. Elizabeth: The Golden Age
+6. Inside Man
+7. Grand Canyon
+8. Modern Times
+9. 12 Angry Men
+10. The Misfits
+
+
+
+Label:Cruel Intentions
+Output: 1. The History Boys
+2. The General
+3. The Descent
+4. The Front Page
+5. Detroit Rock City
+6. Byôsoku 5 senchimêtoru
+7. Onibaba
+8. Paris brûle-t-il?
+9. The Vanishing
+10. Kindergarten Cop
+
+
+
+Label:Amistad
+Output: 1. The Rocky Horror Picture Show
+2. Mulholland Dr.
+3. Blood Simple.
+4. Amistad
+5. Little Dieter Needs to Fly
+6. Gegen die Wand
+7. The Hunting Party
+8. The Big Heat
+9. The Great Debaters
+10. The Pink Panther Strikes Again
+
+
+
+Label:Proof
+Output: 1. Almost Famous
+2. A Few Good Men
+3. Driven
+4. Smoke
+5. Body Double
+6. The Libertine
+7. Ed Wood
+8. Proof
+9. Dead Leaves
+10. The Final Countdown
+
+
+
+Label:In America
+Output: 1. Léon
+2. The Departed
+3. The Edge
+4. The Pallbearer
+5. The 13th Warrior
+6. Syriana
+7. Man of Aran
+8. Cry_Wolf
+9. Lovely & Amazing
+10. Outrageous Fortune
+
+
+
+Label:Harry Potter and the Sorcerer's Stone
+Output: 1. Harry Potter and the Sorcerer's Stone
+2. Star Wars: The Clone Wars
+3. Miss Julie
+4. Volver
+5. The Astronaut Farmer
+6. Night at the Museum
+7. Annie Hall
+8. Earth vs. the Flying Saucers
+9. La Bamba
+10. The Time Machine
+
+
+
+Label:Singin' in the Rain
+Output: 1. E.T.: The Extra-Terrestrial
+2. Singin' in the Rain
+3. The Theory of Flight
+4. The Phantom of the Opera
+5. The River Wild
+6. Iron Man
+7. The Brave One
+8. The Castle
+9. The Killing of a Chinese Bookie
+10. RoboCop
+
+
+
+Label:The Draughtsman's Contract
+Output: 1. The Deer Hunter
+2. The Day After Tomorrow
+3. Dirty Harry
+4. The Last Temptation of Christ
+5. Death Race
+6. The Draughtsman's Contract
+7. The Return
+8. Seabiscuit
+9. Wu ji
+10. Invincible
+
+
+
+Label:There Will Be Blood
+Output: 1. Indiana Jones and the Last Crusade
+2. The 39 Steps
+3. Harry un ami qui vous veut du bien
+4. Freaky Friday
+5. Ghost Busters
+6. Mississippi Burning
+7. Léon
+8. Capote
+9. There Will Be Blood
+10. Everest
+
+
+
+Label:The Big Easy
+Output: 1. Disturbia
+2. The Kingdom
+3. Natural Born Killers
+4. The Nativity Story
+5. The Bank Job
+6. The Big Easy
+7. The Holiday
+8. The Russians Are Coming the Russians Are Coming
+9. Sabrina
+10. Phenomenon
+
+
+
+Label:Wag the Dog
+Output: 1. L.A. Confidential
+2. Adaptation.
+3. Moulin Rouge!
+4. RoboCop
+5. The Haunted Mansion
+6. Mr. & Mrs. Smith
+7. The Merchant of Venice
+8. Strange Days
+9. Swimming with Sharks
+10. Gothika
+
+
+
+Label:The Blood of Jesus
+Output: 1. The Sword in the Stone
+2. Moonstruck
+3. The Fabulous Baker Boys
+4. Mona Lisa Smile
+5. The Girl Next Door
+6. Kingpin
+7. The Butterfly Effect
+8. The Weather Underground
+9. The Postman Always Rings Twice
+10. WALL·E
+
+
+
+Label:Umberto D.
+Output: 1. North by Northwest
+2. Kindergarten Cop
+3. Sweet Charity
+4. Harry Potter and the Order of the Phoenix
+5. Abandon
+6. Friday the 13th Part III
+7. Duma
+8. Different for Girls
+9. Une affaire de goût
+10. Leave It to Beaver
+
+
+
+Label:More American Graffiti
+Output: 1. Dawn of the Dead
+2. The League of Extraordinary Gentlemen
+3. Videodrome
+4. Constantine
+5. Rebecca
+6. Invasion of the Body Snatchers
+7. The Witches of Eastwick
+8. Unforgiven
+9. Lara Croft Tomb Raider: The Cradle of Life
+10. Cannibal Holocaust
+
+
+
+Label:The Iron Giant
+Output: 1. Finding Neverland
+2. The Iron Giant
+3. The Wizard
+4. The Phantom of the Opera
+5. The Door in the Floor
+6. The Hour of the Pig
+7. The Long Gray Line
+8. The 5,000 Fingers of Dr. T.
+9. The Theory of Flight
+10. The Honeymooners
+
+
+
+Label:Shock to the System
+Output: 1. The Departed
+2. Dead Poets Society
+3. Men in Black
+4. Casque d'or
+5. The Tragedy of Macbeth
+6. Tsotsi
+7. La double vie de Véronique
+8. RoboCop 3
+9. The Texas Chainsaw Massacre
+10. An American Crime
+
+
+
+Label:No Country for Old Men
+Output: 1. Layer Cake
+2. Capote
+3. No Country for Old Men
+4. Das Cabinet des Dr. Caligari.
+5. Seven Years in Tibet
+6. Bent
+7. Zelary
+8. The Wild Bunch
+9. Cool World
+10. Dark City
+
+
+
+Label:Ju Dou
+Output: 1. The Devil and Daniel Johnston
+2. La nuit de Varennes
+3. Dersu Uzala
+4. Anaconda
+5. Charade
+6. Ju Dou
+7. El hijo de la novia
+8. Autumn in New York
+9. Murder, My Sweet
+10. Silkwood
+
+
+
+Label:Bakushû
+Output: 1. V for Vendetta
+2. Sideways
+3. Frost/Nixon
+4. Die Hard: With a Vengeance
+5. The Fugitive
+6. Eight Men Out
+7. The Adventures of Sebastian Cole
+8. The Cocoanuts
+9. Giulietta degli spiriti
+10. Natural Born Killers
+
+
+
+Label:We Own the Night
+Output: 1. The Nightmare Before Christmas
+2. The Hunchback of Notre Dame
+3. Four Weddings and a Funeral
+4. The Prince and the Showgirl
+5. To Kill a Mockingbird
+6. The Man with Two Brains
+7. The Straight Story
+8. Bee Movie
+9. Win a Date with Tad Hamilton!
+10. Crooklyn
+
+
+
+Label:Wolf
+Output: 1. The Devil Wears Prada
+2. Speed 2: Cruise Control
+3. Traitor
+4. Saw IV
+5. Sex and the City
+6. The School of Rock
+7. White Zombie
+8. Wolf
+9. French Kiss
+10. The Last of Sheila
+
+
+
+Label:Crank
+Output: 1. Titanic
+2. E.T.: The Extra-Terrestrial
+3. Predator
+4. Pearl Harbor
+5. Desperado
+6. Coyote Ugly
+7. The Blair Witch Project
+8. Saw V
+9. Metallica: Some Kind of Monster
+10. The Medallion
+
+
+
+Label:The Cincinnati Kid
+Output: 1. The Man Who Fell to Earth
+2. The Cincinnati Kid
+3. Shadow Magic
+4. Dumb and Dumberer: When Harry Met Lloyd
+5. Boxing Helena
+6. Happy-Go-Lucky
+7. Shooter
+8. Atlantis: The Lost Empire
+9. The Reluctant Astronaut
+10. The Beautician and the Beast
+
+
+
+Label:Detroit Rock City
+Output: 1. I, Robot
+2. Casino Royale
+3. A Few Good Men
+4. Sleepy Hollow
+5. Fatal Attraction
+6. American Pie
+7. The Mighty Ducks
+8. Wedding Crashers
+9. The Long Goodbye
+10. E la nave va
+
+
+
+Label:The Great Escape
+Output: 1. Gegen die Wand
+2. Italiensk for begyndere
+3. Beautiful Boxer
+4. The Mask of Zorro
+5. Le fils
+6. Koyaanisqatsi
+7. Monty Python's Flying Circus
+8. Aguirre, der Zorn Gottes
+9. An Affair to Remember
+10. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+
+
+
+Label:Donnie Brasco
+Output: 1. Donnie Brasco
+2. Blue Velvet
+3. The Hurricane
+4. Dances with Wolves
+5. The Scarlet Letter
+6. The Duellists
+7. The Banger Sisters
+8. Arsenic and Old Lace
+9. Ronin
+10. The Two Jakes
+
+
+
+Label:Rose Red
+Output: 1. Edward Scissorhands
+2. Twelve Monkeys
+3. Being John Malkovich
+4. The Mask of Zorro
+5. Titanic
+6. Mr. Mom
+7. Planes, Trains & Automobiles
+8. The Thin Red Line
+9. Willow
+10. The Spy Who Came in from the Cold
+
+
+
+Label:Per un pugno di dollari
+Output: 1. The Animatrix
+2. The Fly
+3. The Butterfly Effect
+4. The Recruit
+5. The Forgotten
+6. The Chamber
+7. Murder on the Orient Express
+8. Grey Gardens
+9. Star Trek: Nemesis
+10. In Good Company
+
+
+
+Label:Pride & Prejudice
+Output: 1. Taxi Driver
+2. The Godfather
+3. Midnight Run
+4. Blade: Trinity
+5. The Nightmare Before Christmas
+6. Star Wars
+7. The Karate Kid
+8. Master and Commander: The Far Side of the World
+9. Moonlight
+10. Suspect Zero
+
+
+
+Label:The Wizard of Oz
+Output: 1. The Godfather
+2. The Last Detail
+3. Les amants du Pont-Neuf
+4. Das Boot
+5. The Name of the Rose
+6. 28 Days Later...
+7. The Eye
+8. The Immigrant
+9. No Man's Land
+10. Pirates of the Caribbean: At World's End
+
+
+
+Label:As Good as It Gets
+Output: 1. 12 Angry Men
+2. Ikiru
+3. Les misérables
+4. Jeder für sich und Gott gegen alle
+5. The Bellboy
+6. Secret Honor
+7. Music Box
+8. Truly Madly Deeply
+9. Dementia 13
+10. No se lo digas a nadie
+
+
+
+Label:The Fifth Element
+Output: 1. Le dîner de cons
+2. The Fifth Element
+3. Primal Fear
+4. The Mirror Has Two Faces
+5. Blow Out
+6. Modern Times
+7. Nuovo Cinema Paradiso
+8. Leviathan
+9. Little Miss Marker
+10. Sex, Lies, and Videotape
+
+
+
+Label:The Hustler
+Output: 1. The Thin Man
+2. The Nativity Story
+3. Thinner
+4. The Next Best Thing
+5. Herbie Fully Loaded
+6. Scarecrow
+7. Funny Games U.S.
+8. Conspiracy
+9. Cet obscur objet du désir
+10. Ready to Rumble
+
+
+
+Label:The Naked Gun 2½: The Smell of Fear
+Output: 1. Lars and the Real Girl
+2. Takedown
+3. Takeshis'
+4. Days of Thunder
+5. Wallace and Gromit in A Close Shave
+6. Vanya on 42nd Street
+7. P.S.
+8. The Naked Gun 2½: The Smell of Fear
+9. The Last Boy Scout
+10. Bella
+
+
+
+Label:Searching for Bobby Fischer
+Output: 1. M
+2. The Andromeda Strain
+3. The Long Good Friday
+4. Pierrot le fou
+5. The Fox and the Hound
+6. Blue Steel
+7. Cape Fear
+8. Oasis
+9. Kundun
+10. La cité des enfants perdus
+
+
+
+Label:Babe
+Output: 1. The Matrix
+2. Titanic
+3. Ocean's Twelve
+4. Midnight Express
+5. The Fly
+6. Scarface
+7. The Wedding Date
+8. What Dreams May Come
+9. Clear and Present Danger
+10. To Catch a Thief
+
+
+
+Label:Kill Bill: Vol. 2
+Output: 1. The Bridges of Madison County
+2. Hollywoodland
+3. Brainstorm
+4. Bobby
+5. The Texas Chainsaw Massacre
+6. Arlington Road
+7. Almost Heroes
+8. The Kentucky Fried Movie
+9. Mystery Science Theater 3000: The Movie
+10. The Last Unicorn
+
+
+
+Label:Shining Through
+Output: 1. Fucking Åmål
+2. Greyfriars Bobby: The True Story of a Dog
+3. I Am Trying to Break Your Heart
+4. 3 Men and a Baby
+5. D.A.R.Y.L.
+6. The Skulls
+7. Mister Roberts
+8. Gaslight
+9. The Road to El Dorado
+10. A League of Their Own
+
+
+
+Label:S.F.W.
+Output: 1. Twelve Monkeys
+2. V for Vendetta
+3. Lolita
+4. The Magnificent Seven
+5. The Day the Earth Caught Fire
+6. The Phantom of the Opera
+7. The Best Years of Our Lives
+8. A Perfect Candidate
+9. Secret Honor
+10. Living in Oblivion
+
+
+
+Label:Maximum Overdrive
+Output: 1. Before Sunset
+2. Apollo 13
+3. Life of Brian
+4. The Breakfast Club
+5. Spider-Man
+6. The Muppets Take Manhattan
+7. Love Serenade
+8. Ghost Dog: The Way of the Samurai
+9. The Yakuza
+10. Le genou de Claire
+
+
+
+Label:Talladega Nights: The Ballad of Ricky Bobby
+Output: 1. Casino Royale
+2. Lara Croft: Tomb Raider
+3. Dragon: The Bruce Lee Story
+4. The Manchurian Candidate
+5. The Ghost and the Darkness
+6. The Guardian
+7. Con Air
+8. The Lost Boys
+9. Alien: Resurrection
+10. The Hindenburg
+
+
+
+Label:The Exorcist
+Output: 1. Monty Python's Flying Circus
+2. The Exorcist
+3. Layer Cake
+4. Sleepy Hollow
+5. Love Actually
+6. The Addams Family Values
+7. The Shape of Things
+8. Enigma
+9. The Wedding Planner
+10. Elegy
+
+
+
+Label:His Girl Friday
+Output: 1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+2. Birdman of Alcatraz
+3. The Machinist
+4. Hannibal Rising
+5. L.A. Story
+6. His Girl Friday
+7. The Last Wave
+8. The Horse Whisperer
+9. Copying Beethoven
+10. The Number 23
+
+
+
+Label:A Perfect Candidate
+Output: 1. Trainspotting
+2. Blow
+3. Smoke Signals
+4. Flight of the Phoenix
+5. Blood Diamond
+6. The Scarlet Letter
+7. A Little Princess
+8. The Three Musketeers
+9. Rachel Getting Married
+10. Control
+
+
+
+Label:Soapdish
+Output: 1. Romancing the Stone
+2. City Slickers
+3. Heavy Metal
+4. Km. 0
+5. Le temps retrouvé, d'après l'oeuvre de Marcel Proust
+6. Metallica: Some Kind of Monster
+7. The Stepford Wives
+8. Gold Diggers: The Secret of Bear Mountain
+9. Crocodile Dundee in Los Angeles
+10. Tender Mercies
+
+
+
+Label:Sesame Street Presents: Follow that Bird
+Output: 1. The Quick and the Dead
+2. The Green Berets
+3. The Great Train Robbery
+4. The Vampire Lovers
+5. The Trollenberg Terror
+6. The Foot Fist Way
+7. The Tingler
+8. The Sons of Katie Elder
+9. The Hole
+10. The Adventures of Elmo in Grouchland
+
+
+
+Label:3000 Miles to Graceland
+Output: 1. Total Recall
+2. Othello
+3. Les misérables
+4. The Killing of Sister George
+5. Underworld
+6. Harry Potter and the Sorcerer's Stone
+7. Der Name der Rose
+8. Pulp Fiction
+9. Psycho
+10. Frida
+
+
+
+Label:Red Planet
+Output: 1. The Oxford Murders
+2. The Heiress
+3. Party Girl
+4. Waiting for Guffman
+5. The Clearing
+6. Ironweed
+7. Hotel Rwanda
+8. Once Upon a Time in America
+9. The Squid and the Whale
+10. The Hunter
+
+
+
+Label:Air America
+Output: 1. La Femme Nikita
+2. The Beach
+3. Raising Arizona
+4. The River's Edge
+5. The Big Chill
+6. The Little Rascals
+7. The Devil's Own
+8. Hearts in Atlantis
+9. Saving Private Ryan
+10. Dreamgirls
+
+
+
+Label:What About Bob?
+Output: 1. Requiem for a Dream
+2. Jacob's Ladder
+3. Sense and Sensibility
+4. The Accused
+5. The Phantom of the Opera
+6. Dracula: Pages from a Virgin's Diary
+7. The Russians Are Coming the Russians Are Coming
+8. Before Night Falls
+9. The Waterboy
+10. The Tao of Steve
+
+
+
+Label:Monster's Ball
+Output: 1. Stardust Memories
+2. Lost in Translation
+3. Rashômon
+4. The Ladykillers
+5. The Front Page
+6. The Incredible Hulk
+7. The Beast of Yucca Flats
+8. To Kill a Mockingbird
+9. O Brother, Where Art Thou?
+10. Silent Hill
+
+
+
+Label:Summer of Sam
+Output: 1. 28 Days Later...
+2. Never Say Never Again
+3. Tombstone
+4. The Wild Bunch
+5. Fear and Loathing in Las Vegas
+6. The Heart Is Deceitful Above All Things
+7. Summer of Sam
+8. The Agony and the Ecstasy
+9. The Three Lives of Thomasina
+10. Brief Encounter
+
+
+
+Label:A Perfect Murder
+Output: 1. No Country for Old Men
+2. The Quiet American
+3. Ronin
+4. The Lord of the Rings: The Return of the King
+5. Howards End
+6. The Great Ziegfeld
+7. What Ever Happened to Baby Jane?
+8. Time After Time
+9. The Last Castle
+10. Equus
+
+
+
+Label:The Guns of Navarone
+Output: 1. In Bruges
+2. The Emperor's Club
+3. The Nanny Diaries
+4. Men in Black
+5. Dodsworth
+6. Head of State
+7. Auto Focus
+8. The Grifters
+9. Cahill U.S. Marshal
+10. RoboCop 3
+
+
+
+Label:In Her Shoes
+Output: 1. Rear Window
+2. American Psycho
+3. Sunset Blvd.
+4. The Cincinnati Kid
+5. Short Cuts
+6. The Ninth Gate
+7. Matango
+8. The Invasion
+9. Crash
+10. Universal Soldier: The Return
+
+
+
+Label:Les triplettes de Belleville
+Output: 1. The Matrix Reloaded
+2. Boogie Nights
+3. Singin' in the Rain
+4. Sleepy Hollow
+5. Bridget Jones's Diary
+6. The Perfect Storm
+7. Adventures in Babysitting
+8. Bowling for Columbine
+9. Tin Cup
+10. Ocean's Eleven
+
+
+
+Label:Mar adentro
+Output: 1. Breaking Away
+2. The Book of Life
+3. The Razor's Edge
+4. On connaît la chanson
+5. The Long Kiss Goodnight
+6. Pather Panchali
+7. The Dream Team
+8. Dumbo
+9. State Property 2
+10. The Night of the Iguana
+
+
+
+Label:I Know What You Did Last Summer
+Output: 1. The Lookout
+2. Viskningar och rop
+3. King Arthur
+4. Soldier
+5. Le chagrin et la pitié
+6. Blank Check
+7. I Know What You Did Last Summer
+8. Punisher: War Zone
+9. Girls Town
+10. Winter Passing
+
+
+
+Label:The Woodsman
+Output: 1. Before the Devil Knows You're Dead
+2. Donnie Darko
+3. Zeitgeist
+4. The Woodsman
+5. El hijo de la novia
+6. The Last Shot
+7. The Longest Yard
+8. The Prince of Egypt
+9. The Paradine Case
+10. The Adventures of Robin Hood
+
+
+
+Label:Evelyn
+Output: 1. Back to School
+2. Frequency
+3. Highlander
+4. Farinelli
+5. Great Expectations
+6. My Dog Skip
+7. Theater of Blood
+8. Reality Bites
+9. Mr. & Mrs. Smith
+10. Paths of Glory
+
+
+
+Label:Please Don't Eat the Daisies
+Output: 1. The Godfather
+2. The Iron Giant
+3. The Pink Panther
+4. Die Hard: With a Vengeance
+5. In the Line of Fire
+6. Batman Returns
+7. Disclosure
+8. Flatliners
+9. The Duellists
+10. The Grapes of Wrath
+
+
+
+Label:The Golden Compass
+Output: 1. The Shawshank Redemption
+2. The Color of Money
+3. The Golden Compass
+4. Requiem for a Dream
+5. Treasure Island
+6. Four Weddings and a Funeral
+7. Disturbia
+8. The Hole
+9. Moon Over Parador
+10. The Land Before Time III: The Time of the Great Giving
+
+
+
+Label:The Long Walk Home
+Output: 1. Batman Begins
+2. Apollo 13
+3. Hot Fuzz
+4. K-PAX
+5. The Iron Giant
+6. Monster House
+7. Thank You for Smoking
+8. Dirty Rotten Scoundrels
+9. The Producers
+10. My Dinner with Andre
+
+
+
+Label:I, Robot
+Output: 1. Chasing Amy
+2. Crash
+3. Salaam Bombay!
+4. A Love Song for Bobby Long
+5. Monsieur Hire
+6. Making Love
+7. Fierce Creatures
+8. Thank You for Smoking
+9. Punisher: War Zone
+10. The Pagemaster
+
+
+
+Label:The Time Machine
+Output: 1. Slumdog Millionaire
+2. The Mummy: Tomb of the Dragon Emperor
+3. The Time Machine
+4. The Black Stallion
+5. The Honeymooners
+6. The Big Bounce
+7. The Kentuckian
+8. The Flamingo Kid
+9. The Forgotten
+10. The Harder They Fall
+
+
+
+Label:Hope and Glory
+Output: 1. Hable con ella
+2. Donnie Brasco
+3. The Age of Innocence
+4. Sleepy Hollow
+5. The Glass Menagerie
+6. The Elephant Man
+7. The Green Mile
+8. La nuit américaine
+9. Mulholland Falls
+10. The Saint
+
+
+
+Label:The Ninth Gate
+Output: 1. Ghost World
+2. The Celluloid Closet
+3. Beautiful Thing
+4. The Wrestler
+5. Permanent Midnight
+6. When a Man Loves a Woman
+7. The Ninth Gate
+8. Girl with a Pearl Earring
+9. Cruel Intentions
+10. The King of Marvin Gardens
+
+
+
+Label:The Magnificent Ambersons
+Output: 1. A Clockwork Orange
+2. The Magnificent Ambersons
+3. The Ghost and Mrs. Muir
+4. Alice Doesn't Live Here Anymore
+5. Nightbreed
+6. The American President
+7. Animal Factory
+8. Memoirs of an Invisible Man
+9. Bis ans Ende der Welt
+10. The War Wagon
+
+
+
+Label:Nick of Time
+Output: 1. Blow Out
+2. The Village
+3. Beautiful Girls
+4. Alphaville, une étrange aventure de Lemmy Caution
+5. Urbania
+6. Young Frankenstein
+7. Mary Poppins
+8. The Hard Way
+9. Cocoon
+10. Edward Scissorhands
+
+
+
+Label:What Women Want
+Output: 1. Charade
+2. Hauru no ugoku shiro
+3. Brand Upon the Brain! A Remembrance in 12 Chapters
+4. The Bourne Ultimatum
+5. Blowup
+6. The Long Kiss Goodnight
+7. The Incredible Hulk
+8. 8 Mile
+9. Before Sunset
+10. Auto Focus
+
+
+
+Label:Lifeboat
+Output: 1. Excalibur
+2. All About Eve
+3. The Prince of Tides
+4. Bridge to Terabithia
+5. Monsieur Hire
+6. Changeling
+7. The Hoax
+8. The Mambo Kings
+9. Jakob the Liar
+10. Beautiful Creatures
+
+
+
+Label:Memento
+Output: 1. Memento
+2. The Birdcage
+3. The Guardian
+4. The Cardinal
+5. The Snow Walker
+6. Deconstructing Harry
+7. The Matador
+8. Born on the Fourth of July
+9. The Astronaut's Wife
+10. American Psycho
+
+
+
+Label:Notes on a Scandal
+Output: 1. Midnight Cowboy
+2. Young Frankenstein
+3. In a Lonely Place
+4. La fille sur le pont
+5. The Missing
+6. The Ninth Configuration
+7. The Bourne Ultimatum
+8. Natural Born Killers
+9. Les parapluies de Cherbourg
+10. Romancing the Stone
+
+
+
+Label:Home Alone
+Output: 1. Memento
+2. Dogville
+3. The Fugitive
+4. Invasion of the Body Snatchers
+5. The Accused
+6. The Fallen Idol
+7. Dark Water
+8. The Cassandra Crossing
+9. Eye for an Eye
+10. The Turning Point
+
+
+
+Label:Shichinin no samurai
+Output: 1. The Descent
+2. The Ice Storm
+3. The Fog of War: Eleven Lessons from the Life of Robert S. McNamara
+4. Born on the Fourth of July
+5. Cape Fear
+6. Shichinin no samurai
+7. Jane Eyre
+8. The Black Dahlia
+9. The Anarchist Cookbook
+10. The Whole Wide World
+
+
+
+Label:The Preacher's Wife
+Output: 1. Memento
+2. Rashômon
+3. Dirty Pretty Things
+4. Insomnia
+5. Cape Fear
+6. A Walk in the Clouds
+7. Three Days of the Condor
+8. Johnny Guitar
+9. Dolls
+10. The Hand That Rocks the Cradle
+
+
+
+Label:Besieged
+Output: 1. Million Dollar Baby
+2. The Apartment
+3. To Kill a Mockingbird
+4. Good Will Hunting
+5. Apollo 13
+6. It's a Wonderful Life
+7. Ferris Bueller's Day Off
+8. American Graffiti
+9. One Flew Over the Cuckoo's Nest
+10. Vertigo
+
+
+
+Label:La flor de mi secreto
+Output: 1. Le fabuleux destin d'Amélie Poulain
+2. La nuit américaine
+3. Manhattan
+4. The Fountainhead
+5. Le samouraï
+6. The Paper
+7. The Rainmaker
+8. The Bachelor
+9. Dumb & Dumber
+10. Two Much
+
+
+
+Label:L'auberge espagnole
+Output: 1. O Brother, Where Art Thou?
+2. Lethal Weapon
+3. Letters from Iwo Jima
+4. Tsotsi
+5. Bird on a Wire
+6. The Bone Collector
+7. The Siege
+8. The Sandlot
+9. Virtuosity
+10. The Killer Shrews
+
+
+
+Label:The Crossing Guard
+Output: 1. Star Wars
+2. Pirates of the Caribbean: Dead Man's Chest
+3. The English Patient
+4. Training Day
+5. The Crow: City of Angels
+6. The Magdalene Sisters
+7. The Awful Truth
+8. Troop Beverly Hills
+9. The Thin Man Goes Home
+10. The Art of War
+
+
+
+Label:Mr. & Mrs. Smith
+Output: 1. Paris, Texas
+2. The Bridge on the River Kwai
+3. Man on the Moon
+4. Girl with a Pearl Earring
+5. The Mist
+6. Frozen River
+7. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+8. The Scorpion King
+9. Forgetting Sarah Marshall
+10. Patton
+
+
+
+Label:Transformers
+Output: 1. V for Vendetta
+2. Cape Fear
+3. Galaxy Quest
+4. Serendipity
+5. The Island
+6. Terms of Endearment
+7. Three Days of the Condor
+8. The Taming of the Shrew
+9. Major League
+10. The Rescuers Down Under
+
+
+
+Label:Bronenosets Potyomkin
+Output: 1. The Puffy Chair
+2. The Love Guru
+3. The Banger Sisters
+4. Coffee and Cigarettes
+5. The Spitfire Grill
+6. Metropolis
+7. A Woman Under the Influence
+8. The Straight Story
+9. Sullivan's Travels
+10. River of No Return
+
+
+
+Label:Storytelling
+Output: 1. The Usual Suspects
+2. Låt den rätte komma in
+3. The Thing
+4. Match Point
+5. The Green Mile
+6. Touching the Void
+7. Sling Blade
+8. Joyeux Noël
+9. Terminator 3: Rise of the Machines
+10. White Zombie
+
+
+
+Label:2001: A Space Odyssey
+Output: 1. Eternal Sunshine of the Spotless Mind
+2. Amadeus
+3. 2001: A Space Odyssey
+4. The Wild Bunch
+5. Pink Floyd The Wall
+6. Star Wars: Episode III - Revenge of the Sith
+7. Shadow of the Vampire
+8. The Queen
+9. Before the Rain
+10. Moolaadé
+
+
+
+Label:Requiem for a Dream
+Output: 1. Ratatouille
+2. Sleepy Hollow
+3. The Secret Garden
+4. What's Eating Gilbert Grape
+5. Death Proof
+6. Requiem for a Dream
+7. The Matrix Revolutions
+8. Apocalypse Now
+9. Dead Poets Society
+10. The Lady Vanishes
+
+
+
+Label:The Salton Sea
+Output: 1. Juno and the Paycock
+2. Garden State
+3. The French Connection
+4. Mimic
+5. The Manchurian Candidate
+6. The Salton Sea
+7. Heaven's Gate
+8. The Human Stain
+9. Star Trek: The Motion Picture
+10. The Godfather
+
+
+
+Label:Crank
+Output: 1. Rear Window
+2. Casino Royale
+3. Chariots of Fire
+4. Toy Story
+5. The Unbearable Lightness of Being
+6. The Butcher Boy
+7. The Son of Kong
+8. Conversations with Other Women
+9. The Old Man and the Sea
+10. Crank
+
+
+
+Label:American Splendor
+Output: 1. Metro
+2. Strange Days
+3. Silkwood
+4. American Splendor
+5. L.A. Confidential
+6. Postcards from the Edge
+7. The Manchurian Candidate
+8. Dark City
+9. The Majestic
+10. Haunted Honeymoon
+
+
+
+Label:Caro diario
+Output: 1. Mission: Impossible III
+2. Unfaithful
+3. Curious George
+4. Dangerous Liaisons
+5. Rent
+6. How to Lose Friends & Alienate People
+7. The Hills Have Eyes II
+8. Drop Zone
+9. Courage Under Fire
+10. Shock Treatment
+
+
+
+Label:Slackers
+Output: 1. City Lights
+2. Something Wild
+3. Mystery Train
+4. Sid and Nancy
+5. Escape to Witch Mountain
+6. August Rush
+7. The Unbearable Lightness of Being
+8. Cujo
+9. Cabin Boy
+10. Little Women
+
+
+
+Label:Double Jeopardy
+Output: 1. Les diaboliques
+2. Sunrise: A Song of Two Humans
+3. Pickpocket
+4. Pit and the Pendulum
+5. Dementia 13
+6. The Blood of Heroes
+7. Z Channel: A Magnificent Obsession
+8. Night Falls on Manhattan
+9. Double Jeopardy
+10. The Invasion
+
+
+
+Label:Eve of Destruction
+Output: 1. The Little Shop of Horrors
+2. La belle et la bête
+3. Anatomy of a Murder
+4. The Great Dictator
+5. The Killing of a Chinese Bookie
+6. The Bank Job
+7. Nattevagten
+8. Quiz Show
+9. Fellini - Satyricon
+10. Midnight in the Garden of Good and Evil
+
+
+
+Label:Mad Max 2
+Output: 1. Taxi Driver
+2. One Flew Over the Cuckoo's Nest
+3. Die Hard
+4. West Side Story
+5. The Man Without a Face
+6. The Virgin Suicides
+7. The Crow: City of Angels
+8. American Psycho
+9. Jumper
+10. The Grudge 2
+
+
+
+Label:The Animatrix
+Output: 1. The Animatrix
+2. Evita
+3. Captain Ron
+4. Happy Feet
+5. Saw III
+6. xXx
+7. Look Who's Talking
+8. The Indian in the Cupboard
+9. The Legend of Zorro
+10. The 13th Warrior
+
+
+
+Label:I Spy
+Output: 1. The Fisher King
+2. The Elephant Man
+3. The Sweet Hereafter
+4. The Browning Version
+5. The Last Boy Scout
+6. The People Under the Stairs
+7. Punch-Drunk Love
+8. Little Big Man
+9. Cop Land
+10. La Femme Nikita
+
+
+
+Label:As Good as It Gets
+Output: 1. Lawrence of Arabia
+2. Gorillas in the Mist: The Story of Dian Fossey
+3. Somewhere in Time
+4. The Guardian
+5. Sleepwalking
+6. Walkabout
+7. The Sentinel
+8. Born Free
+9. Lust for Life
+10. Chinjeolhan geumjassi
+
+
+
+Label:Ninja Assassin
+Output: 1. The Truman Show
+2. Close Encounters of the Third Kind
+3. The Last Man on Earth
+4. Arlington Road
+5. The Quick and the Dead
+6. Unforgiven
+7. The Astronaut's Wife
+8. Vacation
+9. The Beast from 20,000 Fathoms
+10. Finding Forrester
+
+
+
+Label:The Rock
+Output: 1. Batman Begins
+2. Rashômon
+3. La vita è bella
+4. Mrs. Doubtfire
+5. The Butterfly Effect
+6. The Rock
+7. Gone with the Wind
+8. Gandhi
+9. Léon
+10. The Hitch Hikers Guide to the Galaxy
+
+
+
+Label:Batman Begins
+Output: 1. Dead Poets Society
+2. Enron: The Smartest Guys in the Room
+3. The Bad News Bears
+4. Arachnophobia
+5. Anchors Aweigh
+6. True Crime
+7. Batman Begins
+8. Roger & Me
+9. Tin Men
+10. War of the Buttons
+
+
+
+Label:King Kong
+Output: 1. Starship Troopers
+2. The Ghost and the Darkness
+3. Arrowhead
+4. AVP: Alien vs. Predator
+5. Cronos
+6. The Two Jakes
+7. Le samouraï
+8. The Desperate Hours
+9. Quai des Orfèvres
+10. The Bad News Bears Go to Japan
+
+
+
+Label:Liar Liar
+Output: 1. Blade Runner
+2. The Dark Crystal
+3. The Fountain
+4. Romeo + Juliet
+5. Hellboy
+6. The Long Goodbye
+7. Jay and Silent Bob Strike Back
+8. Kiss of the Spider Woman
+9. The Abyss
+10. Michael Clayton
+
+
+
+Label:The Mists of Avalon
+Output: 1. Mindwalk
+2. Simple Men
+3. La belle noiseuse
+4. MASH
+5. The Others
+6. True Grit
+7. Hard Candy
+8. B. Monkey
+9. The Mists of Avalon
+10. The Lion King
+
+
+
+Label:The Big Lebowski
+Output: 1. The Big Lebowski
+2. The Dark Knight
+3. Watership Down
+4. The Grifters
+5. The Secret of NIMH
+6. RoboCop 3
+7. The Serpent and the Rainbow
+8. Moscow on the Hudson
+9. The Exorcist III
+10. Village of the Damned
+
+
+
+Label:Spider-Man
+Output: 1. Pulp Fiction
+2. The Fly
+3. Gangs of New York
+4. The Green Mile
+5. Spider-Man
+6. The Evil Dead
+7. The Misfits
+8. The Cat's Meow
+9. The Siege
+10. Wit
+
+
+
+Label:Laura
+Output: 1. The Elephant Man
+2. Laura
+3. The Lookout
+4. The Eye
+5. The Swan Princess
+6. My Girl
+7. Old Yeller
+8. Buddy
+9. The Safety of Objects
+10. Murder by Decree
+
+
+
+Label:Sgt. Pepper's Lonely Hearts Club Band
+Output: 1. Frantic
+2. The Curse of Frankenstein
+3. Richard Pryor... Here and Now
+4. Indiana Jones and the Last Crusade
+5. Blood Simple.
+6. The Tuxedo
+7. The Accused
+8. The Ring
+9. Flags of Our Fathers
+10. Man on Fire
+
+
+
+Label:Saving Private Ryan
+Output: 1. The Silence of the Lambs
+2. Saving Private Ryan
+3. Rosemary's Baby
+4. The Last of Sheila
+5. The Pride and the Passion
+6. The Million Dollar Duck
+7. The Sentinel
+8. The Temp
+9. The Great Outdoors
+10. Layer Cake
+
+
+
+Label:Zulu
+Output: 1. Léon
+2. The Right Stuff
+3. The Texas Chain Saw Massacre
+4. Barton Fink
+5. Citizen Kane
+6. One Flew Over the Cuckoo's Nest
+7. Scarface
+8. Tora! Tora! Tora!
+9. Man on Fire
+10. Panic Room
+
+
+
+Label:Ringu
+Output: 1. Star Wars: Episode V - The Empire Strikes Back
+2. WALL·E
+3. V for Vendetta
+4. Rocky
+5. Christmas Vacation
+6. Ivanhoe
+7. A Night to Remember
+8. Modesty Blaise
+9. The Naked Gun: From the Files of Police Squad!
+10. Ben-Hur
+
+
+
+Label:Fun with Dick and Jane
+Output: 1. Uncle Buck
+2. Bottle Rocket
+3. The Wackness
+4. The American President
+5. Le professionnel
+6. The General
+7. Diarios de motocicleta
+8. Raising Arizona
+9. Mr. Holland's Opus
+10. Something's Gotta Give
+
+
+
+Label:Mitt liv som hund
+Output: 1. Citizen Kane
+2. Punch-Drunk Love
+3. Misery
+4. Dawn of the Dead
+5. Picnic at Hanging Rock
+6. Silent Running
+7. Fitzcarraldo
+8. The Hunt for Red October
+9. Session 9
+10. The Secret Life of Bees
+
+
+
+Label:Dawn of the Dead
+Output: 1. Eastern Promises
+2. High Fidelity
+3. Ghost
+4. Good Will Hunting
+5. Dead Poets Society
+6. The Hills Have Eyes
+7. Dawn of the Dead
+8. Houseguest
+9. Envy
+10. Dracula
+
+
+
+Label:Thirty Two Short Films About Glenn Gould
+Output: 1. Super Size Me
+2. Blade: Trinity
+3. Darby O'Gill and the Little People
+4. Calamity Jane
+5. La comunidad
+6. Children of the Damned
+7. Il postino
+8. Born Yesterday
+9. E la nave va
+10. Heartbreak Hotel
+
+
+
+Label:Austin Powers in Goldmember
+Output: 1. M
+2. The Negotiator
+3. Johnny Dangerously
+4. Loser
+5. Whiteboyz
+6. Trixie
+7. G.I. Jane
+8. Earth: Final Conflict
+9. Cocaine Cowboys
+10. Hellboy
+
+
+
+Label:Dances with Wolves
+Output: 1. Stardust
+2. Chasing Liberty
+3. The Emperor's New Clothes
+4. The Last Dragon
+5. The Guardian
+6. My Summer of Love
+7. The Amazing Panda Adventure
+8. The Seven Year Itch
+9. A Tale of Two Cities
+10. The Prime of Miss Jean Brodie
+
+
+
+Label:Hush...Hush, Sweet Charlotte
+Output: 1. Taxi Driver
+2. Mission: Impossible III
+3. Great Expectations
+4. Sense and Sensibility
+5. The Omen
+6. Two Weeks Notice
+7. Body of Evidence
+8. Panic in the Streets
+9. Secret Window
+10. The Canterville Ghost
+
+
+
+Label:Jacob's Ladder
+Output: 1. American Beauty
+2. Misery
+3. Jacob's Ladder
+4. The Mummy
+5. The Time Machine
+6. The Innocents
+7. Reversal of Fortune
+8. Beauty and the Beast
+9. The X Files
+10. The Spitfire Grill
+
+
+
+Label:The Temp
+Output: 1. Charlie Wilson's War
+2. The Incredible Mr. Limpet
+3. Planet of the Apes
+4. The Money Pit
+5. Riding the Bullet
+6. Sharky's Machine
+7. Comic Book Villains
+8. Once
+9. Me and You and Everyone We Know
+10. The Return
+
+
+
+Label:Destination Moon
+Output: 1. The Flamingo Kid
+2. Stripes
+3. Sex Drive
+4. Destination Moon
+5. Amator
+6. Stranger Than Paradise
+7. Road House
+8. Roger & Me
+9. Fort Apache the Bronx
+10. Neil Young: Heart of Gold
+
+
+
+Label:Eros
+Output: 1. Shadow Magic
+2. Love Jones
+3. 11:14
+4. GoldenEye
+5. My Fellow Americans
+6. The Rocker
+7. Touch of Evil
+8. Are We Done Yet?
+9. Airport
+10. Glory
+
+
+
+Label:The Hills Have Eyes
+Output: 1. Shaun of the Dead
+2. 28 Weeks Later
+3. Fracture
+4. Spider-Man 3
+5. Smokin' Aces
+6. Little Children
+7. Honogurai mizu no soko kara
+8. Tales from the Hood
+9. Ocean's Twelve
+10. Terminator 2: Judgment Day
+
+
+
+Label:Meet the Robinsons
+Output: 1. The Truman Show
+2. Rushmore
+3. The Secret of My Succe$s
+4. Europa Europa
+5. Swordfish
+6. Grosse Pointe Blank
+7. Closer
+8. The Secret Garden
+9. The Recruit
+10. The Bedford Incident
+
+
+
+Label:The Matrix Reloaded
+Output: 1. The Assassination of Jesse James by the Coward Robert Ford
+2. Suspiria
+3. It Happened One Night
+4. The Matrix Reloaded
+5. The Return
+6. The Strange Love of Martha Ivers
+7. Lumumba
+8. Evening
+9. The Wackness
+10. The Godfather: Part III
+
+
+
+Label:Antitrust
+Output: 1. The Fall
+2. Autumn in New York
+3. The Ring
+4. The Postman Always Rings Twice
+5. Friday
+6. From Dusk Till Dawn
+7. Ratatouille
+8. The Set-Up
+9. Rebel Without a Cause
+10. Hoop Dreams
+
+
+
+Label:Warlock
+Output: 1. The Virgin Suicides
+2. Léon
+3. The Producers
+4. The Madness of King George
+5. The Portrait of a Lady
+6. Notes on a Scandal
+7. Shine a Light
+8. Lady and the Tramp
+9. Homeward Bound: The Incredible Journey
+10. The Adventures of Baron Munchausen
+
+
+
+Label:Speed 2: Cruise Control
+Output: 1. The Matrix Reloaded
+2. The Conversation
+3. The Holiday
+4. The Libertine
+5. Three Kings
+6. Iron Eagle
+7. Thief of Hearts
+8. Tomorrow Never Dies
+9. Greystoke: The Legend of Tarzan, Lord of the Apes
+10. Secret Agent
+
+
+
+Label:Swimming to Cambodia
+Output: 1. The Big Lebowski
+2. When Harry Met Sally...
+3. The Little Mermaid
+4. The Life and Death of Peter Sellers
+5. Jungle Fever
+6. The Legend of Bagger Vance
+7. Mrs Dalloway
+8. The Last House on the Left
+9. The Jungle Book
+10. Mr. Bean's Holiday
+
+
+
+Label:The Negotiator
+Output: 1. Alien³
+2. The Truth About Charlie
+3. Il buono, il brutto, il cattivo.
+4. Fin août, début septembre
+5. Ponette
+6. A Simple Plan
+7. Manderlay
+8. Monsoon Wedding
+9. The Legend of Zorro
+10. The Purple Rose of Cairo
+
+
+
+Label:My Big Fat Greek Wedding
+Output: 1. Cool Hand Luke
+2. Lagaan: Once Upon a Time in India
+3. The Pompatus of Love
+4. The Golden Child
+5. On the Edge
+6. Cabeza de Vaca
+7. Prancer
+8. Wolf Creek
+9. Baghead
+10. Menace II Society
+
+
+
+Label:Out of the Past
+Output: 1. Boogie Nights
+2. Dogville
+3. Eraserhead
+4. The Godfather: Part III
+5. Lost in Space
+6. Chuck & Buck
+7. The Door in the Floor
+8. Man on Wire
+9. Out of the Past
+10. The Spiral Staircase
+
+
+
+Label:The Spy Who Loved Me
+Output: 1. His Girl Friday
+2. The Spy Who Loved Me
+3. Pirates of the Caribbean: Dead Man's Chest
+4. The Hunted
+5. Girl, Interrupted
+6. Monty Python and the Holy Grail
+7. The Fifth Element
+8. Lost Highway
+9. Traffic
+10. The Iron Giant
+
+
+
+Label:The Truth About Cats & Dogs
+Output: 1. The Grapes of Wrath
+2. The Four Musketeers
+3. Rosetta
+4. The Mummy
+5. The Warriors
+6. The Killing
+7. The Matrix
+8. The Truth About Cats & Dogs
+9. The Rules of Attraction
+10. A Place in the Sun
+
+
+
+Label:Father of the Bride
+Output: 1. The Scarlet Letter
+2. The Mosquito Coast
+3. Empire of the Sun
+4. The Maltese Falcon
+5. The Firm
+6. The Time Machine
+7. The Benchwarmers
+8. Almost Heroes
+9. Home Alone
+10. Space Jam
+
+
+
+Label:Jack
+Output: 1. Monsoon Wedding
+2. Requiem for a Dream
+3. Suspiria
+4. The City of the Dead
+5. The Ninth Configuration
+6. Muriel's Wedding
+7. The Witches
+8. Vampire's Kiss
+9. Cube
+10. Blue Steel
+
+
+
+Label:The Prestige
+Output: 1. The Fall
+2. The Prestige
+3. Labyrinth
+4. American History X
+5. Into the Wild
+6. Michael Clayton
+7. Eastern Promises
+8. Control
+9. Lars and the Real Girl
+10. Gone Baby Gone
+
+
+
+Label:Female Trouble
+Output: 1. Raging Bull
+2. Vertigo
+3. The Godfather
+4. High Plains Drifter
+5. The Fugitive
+6. Lagaan: Once Upon a Time in India
+7. Star Wars: Episode VI - Return of the Jedi
+8. Das Boot
+9. The Manchurian Candidate
+10. E.T.: The Extra-Terrestrial
+
+
+
+Label:The Lord of the Rings: The Fellowship of the Ring
+Output: 1. The Godfather: Part III
+2. The Lord of the Rings: The Fellowship of the Ring
+3. The Nightmare Before Christmas
+4. Stargate: The Ark of Truth
+5. The Portrait of a Lady
+6. Benny & Joon
+7. Soylent Green
+8. The 'burbs
+9. The Fortune Cookie
+10. Larger Than Life
+
+
+
+Label:Au revoir les enfants
+Output: 1. The Big Lebowski
+2. Office Space
+3. The Gift
+4. French Kiss
+5. The Power of One
+6. Thunderheart
+7. Swimming with Sharks
+8. My Name Is Joe
+9. Au revoir les enfants
+10. Plaza Suite
+
+
+
+Label:This Is Spinal Tap
+Output: 1. Nosferatu, eine Symphonie des Grauens
+2. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+3. RoboCop 2
+4. Kumonosu-jô
+5. Wong Fei Hung
+6. Mona Lisa Smile
+7. Misery
+8. Picture Perfect
+9. Dellamorte Dellamore
+10. Lulu on the Bridge
+
+
+
+Label:Double Jeopardy
+Output: 1. The Rocky Horror Picture Show
+2. Sin City
+3. Midnight in the Garden of Good and Evil
+4. King Kong
+5. Maverick
+6. The Holiday
+7. Double Jeopardy
+8. Death Sentence
+9. The Hoax
+10. The Cannonball Run
+
+
+
+Label:Starting Out in the Evening
+Output: 1. Becket
+2. Lost in Yonkers
+3. The Major and the Minor
+4. Romancing the Stone
+5. Cousins
+6. The Thomas Crown Affair
+7. Army of Darkness
+8. In the Bleak Midwinter
+9. Dreamgirls
+10. Resident Evil: Extinction
+
+
+
+Label:Jumanji
+Output: 1. The Last King of Scotland
+2. Hotel Rwanda
+3. The French Lieutenant's Woman
+4. Carrie
+5. The Wind That Shakes the Barley
+6. Monty Python Live at the Hollywood Bowl
+7. Jumanji
+8. The Scorpion King
+9. The Mirror Crack'd
+10. The Missing
+
+
+
+Label:Enemy at the Gates
+Output: 1. Hauru no ugoku shiro
+2. Forrest Gump
+3. The Devil Wears Prada
+4. Sneakers
+5. The Tall Guy
+6. Miami Rhapsody
+7. The Black Pirate
+8. Hands on a Hard Body: The Documentary
+9. Dead Calm
+10. Wallace and Gromit in A Close Shave
+
+
+
+Label:Les choristes
+Output: 1. Scarface
+2. Primal Fear
+3. Network
+4. The Whole Nine Yards
+5. Oliver Twist
+6. The Out-of-Towners
+7. The Witches
+8. Rollerball
+9. On the Waterfront
+10. Reality Bites
+
+
+
+Label:The Indian in the Cupboard
+Output: 1. Labyrinth
+2. The Last Temptation of Christ
+3. The Hustler
+4. Double Indemnity
+5. The Gods Must Be Crazy
+6. Charlotte's Web
+7. The Indian in the Cupboard
+8. Maurice
+9. Beyond the Sea
+10. The Ant Bully
+
+
+
+Label:One Fine Day
+Output: 1. The Verdict
+2. The Oxford Murders
+3. The Road to Guantanamo
+4. Hamlet
+5. The Jackal
+6. Harry Potter and the Order of the Phoenix
+7. Monster's Ball
+8. Must Love Dogs
+9. Yes Man
+10. The Man from Earth
+
+
+
+Label:Red Dragon
+Output: 1. A Scanner Darkly
+2. Layer Cake
+3. Shadow of the Vampire
+4. Inventing the Abbotts
+5. Casino
+6. The Merchant of Venice
+7. Jules et Jim
+8. Jean de Florette
+9. My Life Without Me
+10. Outland
+
+
+
+Label:Vantage Point
+Output: 1. Romeo + Juliet
+2. The Truth About Cats & Dogs
+3. Monster in a Box
+4. The Little Mermaid
+5. The Mummy's Curse
+6. Death of a Salesman
+7. Infamous
+8. Public Enemies
+9. This Is Spinal Tap
+10. Lady in a Cage
+
+
+
+Label:Resident Evil
+Output: 1. Love Actually
+2. Taken
+3. The Ninth Gate
+4. The Texas Chainsaw Massacre
+5. Resident Evil
+6. A Life Less Ordinary
+7. Robin Hood: Prince of Thieves
+8. My Cousin Vinny
+9. What Women Want
+10. The X Files
+
+
+
+Label:About Schmidt
+Output: 1. The Dark Knight
+2. The Adventures of Robin Hood
+3. The Legend of Bagger Vance
+4. Pirates of the Caribbean: Dead Man's Chest
+5. Sweeney Todd: The Demon Barber of Fleet Street
+6. Dangerous Liaisons
+7. The Verdict
+8. The Killing
+9. The Missing
+10. Rambling Rose
+
+
+
+Label:Two Family House
+Output: 1. Die Hard
+2. Love Actually
+3. Harry and the Hendersons
+4. Alien
+5. Hostel
+6. Serendipity
+7. Sleepover
+8. Mystery, Alaska
+9. Shooter
+10. Lady Chatterley's Lover
+
+
+
+Label:Personal Best
+Output: 1. Dawn of the Dead
+2. Kramer vs. Kramer
+3. Clerks II
+4. Der amerikanische Freund
+5. C'est arrivé près de chez vous
+6. Cloak & Dagger
+7. Jane Austen's Mafia!
+8. Final Fantasy VII: Advent Children
+9. Street Kings
+10. Poolhall Junkies
+
+
+
+Label:Blood Diamond
+Output: 1. Double Indemnity
+2. The Crucible
+3. The Mummy
+4. Blood Diamond
+5. The Devil and Daniel Johnston
+6. Brain Damage
+7. Machuca
+8. Notes on a Scandal
+9. Birds of America
+10. Dancer in the Dark
+
+
+
+Label:Full Metal Jacket
+Output: 1. Full Metal Jacket
+2. The Evil Dead
+3. Body Double
+4. The Guardian
+5. Miracle
+6. True Crime
+7. The Swimmer
+8. Basic Instinct
+9. The Truth About Cats & Dogs
+10. Rounders
+
+
+
+Label:The Incredibles
+Output: 1. The Bourne Identity
+2. Labyrinth
+3. The Day After Tomorrow
+4. The Incredibles
+5. My Fair Lady
+6. Crocodile Dundee in Los Angeles
+7. Rules of Engagement
+8. Ghost
+9. Lock Up
+10. The Purple Rose of Cairo
+
+
+
+Label:The Wedding Singer
+Output: 1. The Dark Half
+2. The Searchers
+3. Poltergeist
+4. The Manchurian Candidate
+5. Michael Clayton
+6. Eyes Wide Shut
+7. The Hound of the Baskervilles
+8. Death of a Salesman
+9. Batman
+10. Unbreakable
+
+
+
+Label:Top Gun
+Output: 1. The Black Cauldron
+2. Maurice
+3. The Three Musketeers
+4. The Substance of Fire
+5. The Thief of Bagdad
+6. The 40 Year Old Virgin
+7. Scream 2
+8. Little Big Man
+9. Frantic
+10. Patton
+
+
+
+Label:Nuovo Cinema Paradiso
+Output: 1. There Will Be Blood
+2. Nuovo Cinema Paradiso
+3. The Straight Story
+4. The Count of Monte Cristo
+5. Good Bye Lenin!
+6. The Kingdom
+7. The Bank Job
+8. Heart and Souls
+9. Nice Dreams
+10. Seven Brides for Seven Brothers
+
+
+
+Label:Unbreakable
+Output: 1. Unbreakable
+2. Erin Brockovich
+3. Repulsion
+4. Serpico
+5. El topo
+6. Talk to Me
+7. The Stooge
+8. Caged Heat
+9. Up Close & Personal
+10. The General
+
+
+
+Label:Hearts in Atlantis
+Output: 1. How to Succeed in Business Without Really Trying
+2. The Eye
+3. Save the Last Dance
+4. The Goat
+5. Catch and Release
+6. Lucky You
+7. Hearts in Atlantis
+8. Ararat
+9. Masters of the Universe
+10. Hedwig and the Angry Inch
+
+
+
+Label:Finding Neverland
+Output: 1. Lost in Translation
+2. The Elephant Man
+3. 12 Angry Men
+4. Papillon
+5. The Prestige
+6. WarGames
+7. The Gunfighter
+8. The Dreamers
+9. Beyond the Sea
+10. The Spitfire Grill
+
+
+
+Label:The Weather Underground
+Output: 1. Gomorra
+2. Amarcord
+3. Mis
+4. The Dust Factory
+5. The Borrowers
+6. The Love Bug
+7. Tea with Mussolini
+8. Cat on a Hot Tin Roof
+9. The Vampire Bat
+10. The Saint of Fort Washington
+
+
+
+Label:Election
+Output: 1. Heat
+2. Full Metal Jacket
+3. The Italian Job
+4. An Officer and a Gentleman
+5. In a Lonely Place
+6. Gentleman's Agreement
+7. The Constant Gardener
+8. The Full Monty
+9. Internal Affairs
+10. The Harvey Girls
+
+
+
+Label:Pillow Talk
+Output: 1. Groundhog Day
+2. Doctor Zhivago
+3. 12 Angry Men
+4. Kill Bill: Vol. 2
+5. The Hunt for Red October
+6. The Sweetest Thing
+7. Pillow Talk
+8. Before Sunset
+9. The Nativity Story
+10. Subway
+
+
+
+Label:Leaving Las Vegas
+Output: 1. Terminator 2: Judgment Day
+2. Match Point
+3. Leaving Las Vegas
+4. Witness
+5. Dead Man's Shoes
+6. The Lake House
+7. L'avventura
+8. The Babysitters
+9. The Boondock Saints
+10. Bowling for Columbine
+
+
+
+Label:A Fish Called Wanda
+Output: 1. Requiem for a Dream
+2. A Fish Called Wanda
+3. Memento
+4. The Killing
+5. Man on Wire
+6. Before Night Falls
+7. The Sum of Us
+8. Diarios de motocicleta
+9. The Englishman Who Went Up a Hill But Came Down a Mountain
+10. The Other Sister
+
+
+
+Label:Signs
+Output: 1. The Animatrix
+2. Interview with the Vampire: The Vampire Chronicles
+3. The Omega Code
+4. The Dam Busters
+5. The Fountain
+6. War of the Worlds
+7. Memoirs of a Geisha
+8. Assault on Precinct 13
+9. Unstrung Heroes
+10. The Wrong Man
+
+
+
+Label:Mission: Impossible III
+Output: 1. The Mission
+2. A Room with a View
+3. Fargo
+4. A Guide to Recognizing Your Saints
+5. Final Fantasy VII: Advent Children
+6. Iron & Silk
+7. Blow Out
+8. Persona
+9. La mala educación
+10. Little Miss Sunshine
+
+
+
+Label:Losin' It
+Output: 1. The Man Who Fell to Earth
+2. Dancer, Texas Pop. 81
+3. Waterworld
+4. Pure Luck
+5. House of Cards
+6. Scary Movie 3
+7. Once Upon a Time... When We Were Colored
+8. Auto Focus
+9. Crime Spree
+10. Ethan Frome
+
+
+
+Label:Shrek the Third
+Output: 1. La finestra di fronte
+2. Away from Her
+3. The Whole Nine Yards
+4. Jurassic Park
+5. The Wild Geese
+6. The Reluctant Astronaut
+7. The Phantom Tollbooth
+8. Baghead
+9. The Mother
+10. Before the Devil Knows You're Dead
+
+
+
+Label:Leaving Las Vegas
+Output: 1. Almost Famous
+2. Before Sunset
+3. The Life Aquatic with Steve Zissou
+4. Leaving Las Vegas
+5. The Manchurian Candidate
+6. Love Jones
+7. Grey Gardens
+8. Jane Eyre
+9. Stop Making Sense
+10. Fast, Cheap & Out of Control
+
+
+
+Label:You're a Big Boy Now
+Output: 1. Caché
+2. Dragonfly
+3. Hamlet
+4. Slap Shot
+5. Billy Jack
+6. Powder
+7. Tootsie
+8. The Ring Two
+9. I Am Sam
+10. House on Haunted Hill
+
+
+
+Label:Rich and Strange
+Output: 1. Rushmore
+2. The Natural
+3. Vertigo
+4. Innerspace
+5. Frankenstein
+6. Quiz Show
+7. The Flamingo Kid
+8. The Railway Children
+9. Stage Beauty
+10. Mansfield Park
+
+
+
+Label:Charlotte's Web
+Output: 1. All About Eve
+2. An Officer and a Gentleman
+3. Meet Me in St. Louis
+4. Ben-Hur
+5. The Last Samurai
+6. Crimes of Passion
+7. The Clan of the Cave Bear
+8. Ratatouille
+9. Twister
+10. The Haunted Mansion
+
+
+
+Label:Dog Soldiers
+Output: 1. Léon
+2. Amadeus
+3. The Count of Monte Cristo
+4. Night Shift
+5. The Curse of the Jade Scorpion
+6. The Pink Panther
+7. The Three Lives of Thomasina
+8. The Missing
+9. The River's Edge
+10. The Chase
+
+
+
+Label:Beat the Devil
+Output: 1. E.T.: The Extra-Terrestrial
+2. Gandhi
+3. Cape Fear
+4. The Lion in Winter
+5. The Rainmaker
+6. The Ninth Gate
+7. Unforgiven
+8. In the Mouth of Madness
+9. The Brood
+10. The Eagle Has Landed
+
+
+
+Label:A Fish Called Wanda
+Output: 1. Ginger Snaps: Unleashed
+2. Desperately Seeking Susan
+3. Secondhand Lions
+4. Working Girl
+5. Stuart Little 2
+6. Brewster's Millions
+7. Hollywood Homicide
+8. A Fish Called Wanda
+9. The Thing
+10. The Pink Panther
+
+
+
+Label:Walk the Line
+Output: 1. Blade Runner
+2. A Streetcar Named Desire
+3. Contact
+4. The Longest Yard
+5. Walk the Line
+6. The Endurance: Shackleton's Legendary Antarctic Expedition
+7. The Bone Collector
+8. Dolores Claiborne
+9. The Big Chill
+10. Before the Devil Knows You're Dead
+
+
+
+Label:Joe Versus the Volcano
+Output: 1. Dog Day Afternoon
+2. Sneakers
+3. Mission: Impossible
+4. Master and Commander: The Far Side of the World
+5. HouseSitter
+6. Funny Games U.S.
+7. The House Bunny
+8. The Howling
+9. Joe Versus the Volcano
+10. Eagle Eye
+
+
+
+Label:A Clockwork Orange
+Output: 1. A Clockwork Orange
+2. The Lion in Winter
+3. The Neverending Story II: The Next Chapter
+4. The Glass House
+5. Little Miss Sunshine
+6. Men in Black
+7. Night at the Museum
+8. The Celluloid Closet
+9. Sister Act 2: Back in the Habit
+10. Shrek the Halls
+
+
+
+Label:Fantastic Four
+Output: 1. Punch-Drunk Love
+2. Man on the Moon
+3. Cloverfield
+4. The Thomas Crown Affair
+5. The Big Chill
+6. The Sleepy Time Gal
+7. Passion Fish
+8. Blue Steel
+9. Blood Simple.
+10. Tremors
+
+
+
+Label:Unbreakable
+Output: 1. The Crow
+2. Rushmore
+3. The Good Son
+4. Unbreakable
+5. Before the Devil Knows You're Dead
+6. The King Is Alive
+7. The Real Blonde
+8. Poolhall Junkies
+9. Monsieur Verdoux
+10. Nightmare Alley
+
+
+
+Label:JFK
+Output: 1. Slither
+2. eXistenZ
+3. JFK
+4. Mystic River
+5. Dogma
+6. Death Wish
+7. The Natural
+8. One Flew Over the Cuckoo's Nest
+9. Star Wars: Episode III - Revenge of the Sith
+10. The Upside of Anger
+
+
+
+Label:Speed
+Output: 1. SubUrbia
+2. The Money Pit
+3. G.I. Jane
+4. The Onion Field
+5. The Piano
+6. His Girl Friday
+7. Dr. Jekyll and Mr. Hyde
+8. All About the Benjamins
+9. Jungle 2 Jungle
+10. Cannibal ferox
+
+
+
+Label:Spider-Man
+Output: 1. American Dreams
+2. Bandits
+3. Riding the Bullet
+4. Pather Panchali
+5. My Bodyguard
+6. Bill & Ted's Bogus Journey
+7. Men of Honor
+8. Hocus Pocus
+9. The Seventh Sign
+10. Desperately Seeking Susan
+
+
+
+Label:Gladiator
+Output: 1. The Godfather: Part III
+2. The Dreamers
+3. The General
+4. The Freshman
+5. The Assassination Bureau
+6. The Break-Up
+7. The House Bunny
+8. The Deep End of the Ocean
+9. The Prince & Me
+10. The Serpent and the Rainbow
+
+
+
+Label:Hearts in Atlantis
+Output: 1. The Man from Earth
+2. Wallace & Gromit in The Curse of the Were-Rabbit
+3. Sleepy Hollow
+4. Serenity
+5. Hearts in Atlantis
+6. Mis
+7. The Island
+8. The Savages
+9. Fear and Loathing in Las Vegas
+10. Lady Sings the Blues
+
+
+
+Label:Blade Runner
+Output: 1. Blade Runner
+2. Terminator 3: Rise of the Machines
+3. The Manchurian Candidate
+4. A Nightmare on Elm Street 3: Dream Warriors
+5. Jarhead
+6. Chariots of Fire
+7. In America
+8. The Private Life of Sherlock Holmes
+9. The Yearling
+10. The Gold Rush
+
+
+
+Label:Heaven Can Wait
+Output: 1. Mulholland Dr.
+2. The Sheltering Sky
+3. French Kiss
+4. Heaven Can Wait
+5. Night and Day
+6. Predator
+7. Toy Story
+8. To Catch a Thief
+9. Signs
+10. Brigadoon
+
+
+
+Label:Hedwig and the Angry Inch
+Output: 1. The Third Man
+2. The Adventures of Baron Munchausen
+3. The Full Monty
+4. The Last Waltz
+5. How to Steal a Million
+6. Swing Kids
+7. Hello Mary Lou: Prom Night II
+8. Trollflöjten
+9. Shadows and Fog
+10. Jane Eyre
+
+
+
+Label:Last Night
+Output: 1. Lost in Translation
+2. The Quiet American
+3. Brief Encounter
+4. Jane Eyre
+5. The Life and Death of Colonel Blimp
+6. Iron Will
+7. Jacob's Ladder
+8. Heist
+9. Quiz Show
+10. Star Wars: Episode V - The Empire Strikes Back
+
+
+
+Label:Shrek the Third
+Output: 1. The Incredibles
+2. Outbreak
+3. Lady Jane
+4. Tin Men
+5. Moscow on the Hudson
+6. Shrek the Third
+7. Widows' Peak
+8. Fun with Dick and Jane
+9. Bad Boys
+10. Indiana Jones and the Kingdom of the Crystal Skull
+
+
+
+Label:Courage Under Fire
+Output: 1. The Bourne Identity
+2. The Majestic
+3. The Hunchback of Notre Dame
+4. The Conversation
+5. The World Is Not Enough
+6. The Flintstones in Viva Rock Vegas
+7. A Knight's Tale
+8. The Bad News Bears
+9. Carmen Jones
+10. The Adventures of Huck Finn
+
+
+
+Label:Deathtrap
+Output: 1. Sukiyaki Western Django
+2. Tideland
+3. 16 Blocks
+4. Old Joy
+5. Stay
+6. War of the Worlds
+7. A Woman Under the Influence
+8. Kingdom of Heaven
+9. August Rush
+10. The Road to El Dorado
+
+
+
+Label:Fantastic Four
+Output: 1. Face/Off
+2. The Dirty Dozen
+3. The Lady Eve
+4. The Fisher King
+5. The Italian Job
+6. The Curse of Frankenstein
+7. The Invisible Man
+8. The Snake Pit
+9. Barton Fink
+10. Blood Diamond
+
+
+
+Label:The Incredibles
+Output: 1. Almost Famous
+2. The Incredibles
+3. The Aviator
+4. Legends of the Fall
+5. Stargate
+6. The Stepfather
+7. The Little Rascals
+8. Muriel's Wedding
+9. Roxanne
+10. Ironweed
+
+
+
+Label:Legally Blonde
+Output: 1. Memento
+2. Unforgiven
+3. The Illusionist
+4. Heat and Dust
+5. Mutiny on the Bounty
+6. King Kong
+7. Dr. Jekyll and Mr. Hyde
+8. Fletch
+9. Quick Change
+10. Legally Blonde
+
+
+
+Label:Beverly Hills Cop II
+Output: 1. The Last Picture Show
+2. Klute
+3. Eastern Promises
+4. Requiem for a Dream
+5. The Legacy
+6. Intolerable Cruelty
+7. Pierrot le fou
+8. Gigi
+9. Pal Joey
+10. The Front Page
+
+
+
+Label:Grindhouse
+Output: 1. 28 Days Later...
+2. The Mist
+3. The Curious Case of Benjamin Button
+4. The Life Aquatic with Steve Zissou
+5. Flight of the Navigator
+6. The Perfect Storm
+7. The Other Side of Heaven
+8. Desert Bloom
+9. The Green Berets
+10. Radioland Murders
+
+
+
+Label:Ever After
+Output: 1. Le fabuleux destin d'Amélie Poulain
+2. Match Point
+3. The Princess Diaries
+4. The Producers
+5. Pride and Glory
+6. The Juror
+7. The Passion of the Christ
+8. El orfanato
+9. Mississippi Burning
+10. Cocoon: The Return
+
+
+
+Label:The Last American Virgin
+Output: 1. Saibogujiman kwenchana
+2. The Fountain
+3. Dawn of the Dead
+4. Shiqi sui de dan che
+5. The Ninth Gate
+6. V for Vendetta
+7. Manhunter
+8. The Swimmer
+9. The Endurance: Shackleton's Legendary Antarctic Expedition
+10. Solyaris
+
+
+
+Label:Fantastic Four
+Output: 1. The Chronicles of Narnia: Prince Caspian
+2. The Adventures of Ford Fairlane
+3. Touch of Pink
+4. The Meaning of Life
+5. The Final Countdown
+6. Me, Myself & Irene
+7. No Way Out
+8. The Prime of Miss Jean Brodie
+9. Persepolis
+10. Monsieur Verdoux
+
+
+
+Label:12 Angry Men
+Output: 1. Donnie Darko
+2. A Fish Called Wanda
+3. The Guns of Navarone
+4. Les rivières pourpres
+5. Chocolat
+6. I Am Sam
+7. The Opposite of Sex
+8. Batman Returns
+9. Matinee
+10. 2 Days in Paris
+
+
+
+Label:Léon
+Output: 1. Alien
+2. The Addams Family
+3. The Polar Express
+4. The Last of the Mohicans
+5. The Evil Dead
+6. Enchanted
+7. La guerre du feu
+8. Fahrenheit 9/11
+9. Norbit
+10. Léon
+
+
+
+Label:Terminator 2: Judgment Day
+Output: 1. Across the Universe
+2. The Little Mermaid
+3. The Broken Hearts Club: A Romantic Comedy
+4. The Seeker: The Dark Is Rising
+5. The World of Henry Orient
+6. Braveheart
+7. Milk
+8. The Dirty Dozen
+9. Legally Blonde
+10. The Wings of the Dove
+
+
+
+Label:No Man's Land
+Output: 1. No Man's Land
+2. The Magdalene Sisters
+3. Khartoum
+4. Joe Strummer: The Future Is Unwritten
+5. The Lady from Shanghai
+6. Zardoz
+7. Enemy at the Gates
+8. Southland Tales
+9. Ethan Frome
+10. Fun with Dick and Jane
+
+
+
+Label:Stoked: The Rise and Fall of Gator
+Output: 1. The Dreamers
+2. The Fisher King
+3. Changeling
+4. The Sword in the Stone
+5. Ronin
+6. Oscar and Lucinda
+7. Lifeforce
+8. Una giornata particolare
+9. Poseidon
+10. The Most Dangerous Game
+
+
+
+Label:Waking Life
+Output: 1. Waking Life
+2. Fanny och Alexander
+3. Mimi wo sumaseba
+4. La ciociara
+5. Rope
+6. Shoah
+7. The Black Stallion
+8. Reality Bites
+9. La dolce vita
+10. Vertigo
+
+
+
+Label:Gangs of New York
+Output: 1. The Treasure of the Sierra Madre
+2. Gangs of New York
+3. Indiana Jones and the Kingdom of the Crystal Skull
+4. The Poseidon Adventure
+5. The Lost Boys
+6. Das Leben der Anderen
+7. The Glass Menagerie
+8. The Hunted
+9. The Lake House
+10. Punch-Drunk Love
+
+
+
+Label:Brother Bear
+Output: 1. Requiem for a Dream
+2. Elephant
+3. The Last Wave
+4. The Break-Up
+5. The Adventures of Robin Hood
+6. Girlfight
+7. The Grey Zone
+8. Underworld: Evolution
+9. Running Scared
+10. Mighty Aphrodite
+
+
+
+Label:Thirty Two Short Films About Glenn Gould
+Output: 1. Close Encounters of the Third Kind
+2. Dodgeball: A True Underdog Story
+3. Wedding Crashers
+4. Ray
+5. Flashdance
+6. Silverado
+7. Murderball
+8. The Children's Hour
+9. The Cat and the Canary
+10. Road House
+
+
+
+Label:Next Friday
+Output: 1. The Money Pit
+2. Another Stakeout
+3. Next Friday
+4. Gunner Palace
+5. The SpongeBob SquarePants Movie
+6. The African Queen
+7. The Chase
+8. The Recruit
+9. The Shop Around the Corner
+10. Love Actually
+
+
+
+Label:American Beauty
+Output: 1. E.T.: The Extra-Terrestrial
+2. The Big Lebowski
+3. Misery
+4. American Beauty
+5. An Inconvenient Truth
+6. Mona Lisa Smile
+7. The Scarlet Letter
+8. The Water Horse
+9. The Diary of Anne Frank
+10. The Heiress
+
+
+
+Label:Wonder Boys
+Output: 1. Lean on Me
+2. Interview with the Assassin
+3. The Thomas Crown Affair
+4. Wonder Boys
+5. Network
+6. Thirteen Days
+7. Clueless
+8. Primary Colors
+9. Enchanted
+10. Music and Lyrics
+
+
+
+Label:Operation Dumbo Drop
+Output: 1. Eternal Sunshine of the Spotless Mind
+2. Lilo & Stitch
+3. Network
+4. The War of the Roses
+5. Hairspray
+6. Click
+7. The Hurricane
+8. High Crimes
+9. Les enfants du paradis
+10. The Fly II
+
+
+
+Label:Around the World in 80 Days
+Output: 1. Dead Poets Society
+2. Apollo 13
+3. Groundhog Day
+4. American Pie
+5. The Sound of Music
+6. Bonnie and Clyde
+7. Léon
+8. The Man Who Fell to Earth
+9. The Bonfire of the Vanities
+10. The Last Mimzy
+
+
+
+Label:Mean Girls
+Output: 1. Mean Girls
+2. eXistenZ
+3. Hard Candy
+4. Dirty Pretty Things
+5. The Bone Collector
+6. Grey's Anatomy
+7. The Borrowers
+8. The Birds
+9. The Scarlet and the Black
+10. The Prophecy II
+
+
+
+Label:Babylon 5: A Call to Arms
+Output: 1. Everything Is Illuminated
+2. Dying Young
+3. Eagle vs Shark
+4. Schultze Gets the Blues
+5. Le roi de coeur
+6. Imaginary Heroes
+7. The Pride and the Passion
+8. The Sentinel
+9. Arven
+10. Metalstorm: The Destruction of Jared-Syn
+
+
+
+Label:Body Double
+Output: 1. Gran Torino
+2. Cidade de Deus
+3. Blade
+4. The Siege
+5. The English Patient
+6. Sherlock Holmes and the Secret Weapon
+7. House M.D.
+8. Subway
+9. Jesus Christ Superstar
+10. Wedding Crashers
+
+
+
+Label:Charlie's Angels: Full Throttle
+Output: 1. The Squid and the Whale
+2. Snow Angels
+3. Joshua
+4. Face/Off
+5. Never Cry Wolf
+6. Rustlers' Rhapsody
+7. Vivre sa vie: Film en douze tableaux
+8. Dead End
+9. Carandiru
+10. Love Is a Many-Splendored Thing
+
+
+
+Label:Death to Smoochy
+Output: 1. The Natural
+2. Grandma's Boy
+3. Abbott and Costello Meet Dr. Jekyll and Mr. Hyde
+4. Domino
+5. Doogal
+6. The Castle
+7. Around the World in 80 Days
+8. Death to Smoochy
+9. Driven
+10. I Think I Love My Wife
+
+
+
+Label:The Fast and the Furious
+Output: 1. The Godfather
+2. 12 Angry Men
+3. Le samouraï
+4. The General
+5. No Man's Land
+6. A Perfect World
+7. The Last Detail
+8. Me, Myself & Irene
+9. After Hours
+10. Brighton Beach Memoirs
+
+
+
+Label:Celebrity
+Output: 1. Garden State
+2. Mary Poppins
+3. Lust och fägring stor
+4. The Treasure of the Sierra Madre
+5. Artificial Intelligence: AI
+6. Unforgiven
+7. Le père Noël est une ordure
+8. Paris Is Burning
+9. The Fly
+10. Wild Orchid
+
+
+
+Label:The Da Vinci Code
+Output: 1. The Da Vinci Code
+2. Blood Diamond
+3. The Remains of the Day
+4. Metropolis
+5. The Fugitive
+6. Notes on a Scandal
+7. The Beast with Five Fingers
+8. The Man Who Knew Too Much
+9. The Presidio
+10. The Proposition
+
+
+
+Label:Untamed Heart
+Output: 1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+2. The Maltese Falcon
+3. Sleepy Hollow
+4. Moulin Rouge!
+5. Romancing the Stone
+6. Harry Potter and the Prisoner of Azkaban
+7. The Shop Around the Corner
+8. Wise Blood
+9. The Parent Trap
+10. Fried Green Tomatoes
+
+
+
+Label:Alive
+Output: 1. Rushmore
+2. Vicky Cristina Barcelona
+3. Grosse Pointe Blank
+4. Lock, Stock and Two Smoking Barrels
+5. The Ladykillers
+6. Notes on a Scandal
+7. Paris - When It Sizzles
+8. The House Bunny
+9. The Family Stone
+10. Tommy Boy
+
+
+
+Label:Moulin Rouge!
+Output: 1. Shrek
+2. Moulin Rouge!
+3. American Beauty
+4. The Ice Storm
+5. The Longest Day
+6. Little Big Man
+7. The MatchMaker
+8. The Song of Bernadette
+9. Under the Tuscan Sun
+10. Pacific Heights
+
+
+
+Label:The Mummy Returns
+Output: 1. Saraband
+2. Rashômon
+3. The Night of the Iguana
+4. The Machinist
+5. Jean de Florette
+6. The Shootist
+7. Hammett
+8. Little Miss Marker
+9. The Barefoot Contessa
+10. My Architect
+
+
+
+Label:A Streetcar Named Desire
+Output: 1. Mulholland Dr.
+2. Forrest Gump
+3. Sherlock Holmes and the Secret Weapon
+4. The Day the Earth Stood Still
+5. A Streetcar Named Desire
+6. Reality Bites
+7. Out of Sight
+8. The Wedding Singer
+9. My Own Private Idaho
+10. Crash
+
+
+
+Label:Mystery Train
+Output: 1. The Woman in Red
+2. From Hell
+3. The Big Red One
+4. The General
+5. Revenge of the Nerds
+6. An American in Paris
+7. Victor Victoria
+8. My Boss's Daughter
+9. The Servant
+10. Anne Frank Remembered
+
+
+
+Label:Stripes
+Output: 1. Jerry Maguire
+2. V for Vendetta
+3. Stripes
+4. Gladiator
+5. RoboCop
+6. The School of Rock
+7. Spaceballs
+8. The Great Ziegfeld
+9. Trois couleurs: Rouge
+10. Pierrot le fou
+
+
+
+Label:World Trade Center
+Output: 1. The Heiress
+2. Rendition
+3. World Trade Center
+4. The Bad and the Beautiful
+5. A Passage to India
+6. The Razor's Edge
+7. Dead Ringers
+8. The Apostle
+9. The Last Starfighter
+10. Monty Python and the Holy Grail
+
+
+
+Label:Batman Begins
+Output: 1. The Muppets Take Manhattan
+2. Some Like It Hot
+3. Una giornata particolare
+4. The Lord of the Rings: The Two Towers
+5. Heart and Souls
+6. In the Line of Fire
+7. Housekeeping
+8. Shallow Grave
+9. The Cincinnati Kid
+10. Attack of the Killer Tomatoes!
+
+
+
+Label:Die Hard
+Output: 1. To Kill a Mockingbird
+2. American History X
+3. The Godfather: Part II
+4. Heathers
+5. Perfume: The Story of a Murderer
+6. La règle du jeu
+7. The Magnificent Seven
+8. Ghost Rider
+9. The X Files
+10. Lucky Number Slevin
+
+
+
+Label:Scary Movie 2
+Output: 1. The Station Agent
+2. Homeward Bound: The Incredible Journey
+3. Elizabeth
+4. Soul Plane
+5. Primeval
+6. From Dusk Till Dawn
+7. The Witches of Eastwick
+8. National Velvet
+9. Win a Date with Tad Hamilton!
+10. The Mothman Prophecies
+
+
+
+Label:Dersu Uzala
+Output: 1. Being John Malkovich
+2. The China Syndrome
+3. The Assassination of Jesse James by the Coward Robert Ford
+4. Marnie
+5. The King of Marvin Gardens
+6. La leggenda del pianista sull'oceano
+7. Dersu Uzala
+8. The Sure Thing
+9. The Grass Harp
+10. Gridiron Gang
+
+
+
+Label:Hearts in Atlantis
+Output: 1. The Basketball Diaries
+2. Hearts in Atlantis
+3. Mississippi Burning
+4. Of Mice and Men
+5. An Inconvenient Truth
+6. Love Is the Devil: Study for a Portrait of Francis Bacon
+7. Riding in Cars with Boys
+8. The Phantom of the Opera
+9. Lady Jane
+10. I Am Legend
+
+
+
+Label:The Lord of the Rings: The Two Towers
+Output: 1. Psycho
+2. The Texas Chainsaw Massacre: The Beginning
+3. The Shining
+4. The Lord of the Rings: The Two Towers
+5. The Lord of the Rings: The Fellowship of the Ring
+6. The Mask of Zorro
+7. Die Hard
+8. Armageddon
+9. A Few Good Men
+10. Gattaca
+
+
+
+Label:Fucking Åmål
+Output: 1. Dazed and Confused
+2. Labyrinth
+3. The Dark Crystal
+4. The Ice Storm
+5. Crimson Tide
+6. Spy Game
+7. Cliffhanger
+8. The Money Pit
+9. The Last Winter
+10. The Chumscrubber
+
+
+
+Label:The Devil and Daniel Johnston
+Output: 1. Rashômon
+2. Unbreakable
+3. V for Vendetta
+4. Michael Clayton
+5. X-Men
+6. The Invasion
+7. Suicide Kings
+8. Titus
+9. The Nines
+10. Miller's Crossing
+
+
+
+Label:The Red Shoes
+Output: 1. Lost in Translation
+2. The Red Shoes
+3. The Vampire Bat
+4. The Kid Stays in the Picture
+5. The Painted Veil
+6. The Warriors
+7. Death and the Maiden
+8. Interview with the Vampire: The Vampire Chronicles
+9. Wise Blood
+10. The Keep
+
+
+
+Label:Who Is Cletis Tout?
+Output: 1. Persona
+2. Terminator 2: Judgment Day
+3. The Shawshank Redemption
+4. The Witches of Eastwick
+5. The Naked Gun: From the Files of Police Squad!
+6. Hearts of Darkness: A Filmmaker's Apocalypse
+7. Stranger Than Fiction
+8. Diner
+9. The Sure Thing
+10. Coal Miner's Daughter
+
+
+
+Label:1492: Conquest of Paradise
+Output: 1. The Usual Suspects
+2. The Fly
+3. Howards End
+4. The Whole Ten Yards
+5. The Prince and the Showgirl
+6. A Few Good Men
+7. Man on Fire
+8. Ocean's Thirteen
+9. Deathtrap
+10. The Time Machine
+
+
+
+Label:Torch Song Trilogy
+Output: 1. The School of Rock
+2. The Great Raid
+3. Orange County
+4. Cabaret
+5. Les amants du Pont-Neuf
+6. Moby Dick
+7. Felicia's Journey
+8. Truth or Consequences, N.M.
+9. Peter Pan
+10. Courage Mountain
+
+
+
+Label:The Holiday
+Output: 1. The Fall
+2. The Usual Suspects
+3. The Glass Menagerie
+4. A Little Princess
+5. Hairspray
+6. Raising Arizona
+7. Smokey and the Bandit II
+8. The Prince & Me
+9. Revenge of the Nerds
+10. The Beach
+
+
+
+Label:Speed
+Output: 1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+2. The Elephant Man
+3. Romancing the Stone
+4. Dirty Rotten Scoundrels
+5. White Men Can't Jump
+6. The Outlaw Josey Wales
+7. Bridget Jones's Diary
+8. Mystery, Alaska
+9. Before Sunset
+10. Michael Clayton
+
+
+
+Label:The Dreamers
+Output: 1. The Dreamers
+2. Blue Velvet
+3. Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+4. The Breakfast Club
+5. Into the Wild
+6. Deliverance
+7. The Haunting
+8. The Nightmare Before Christmas
+9. Easy Rider
+10. The Ipcress File
+
+
+
+Label:Forrest Gump
+Output: 1. Forrest Gump
+2. The Guardian
+3. True Believer
+4. Return to Oz
+5. The Dark Crystal
+6. Anastasia
+7. The Brave One
+8. The Mother
+9. The Pajama Game
+10. The Bridge
+
+
+
+Label:The Comancheros
+Output: 1. A Clockwork Orange
+2. The Color Purple
+3. Drugstore Cowboy
+4. The Matrix Revolutions
+5. The Stepford Wives
+6. The Gingerbread Man
+7. Mimic
+8. The House of Mirth
+9. The Winter Guest
+10. Love and a Bullet
+
+
+
+Label:Easy Rider
+Output: 1. Scream
+2. Grease
+3. American Pie Presents Band Camp
+4. Legally Blonde 2: Red, White & Blonde
+5. The Mask of Zorro
+6. The Karate Kid
+7. Ace Ventura: When Nature Calls
+8. Dreamer: Inspired by a True Story
+9. Jersey Girl
+10. The Stepford Wives
+
+
+
+Label:When Harry Met Sally...
+Output: 1. When Harry Met Sally...
+2. Dead Poets Society
+3. Ocean's Eleven
+4. Some Like It Hot
+5. The Last Days of Disco
+6. Rounders
+7. Bob Roberts
+8. Mindhunters
+9. Sen to Chihiro no kamikakushi
+10. 3 Women
+
+
+
+Label:Rock 'n' Roll High School
+Output: 1. The Commitments
+2. Punch-Drunk Love
+3. Barry Lyndon
+4. The Day After Tomorrow
+5. Scooby-Doo
+6. Mortal Kombat
+7. Ghost Ship
+8. Mayor of the Sunset Strip
+9. Matinee
+10. Truth or Consequences, N.M.
+
+
+
+Label:Dirty Dancing
+Output: 1. Gattaca
+2. From Here to Eternity
+3. Blind Date
+4. California Suite
+5. Silver Streak
+6. Gallipoli
+7. Soylent Green
+8. Waking Up in Reno
+9. Dirty Dancing
+10. The Assignment
+
+
+
+Label:Breakfast at Tiffany's
+Output: 1. The Big Sleep
+2. Breakfast at Tiffany's
+3. The Purple Rose of Cairo
+4. Miracle on 34th Street
+5. The Glenn Miller Story
+6. Halloween
+7. Center Stage
+8. Time Bandits
+9. Cinderella Man
+10. Pale Rider
+
+
+
+Label:Two Weeks Notice
+Output: 1. Out of the Past
+2. The War of the Roses
+3. Revenge of the Nerds
+4. European Vacation
+5. The Naked Gun: From the Files of Police Squad!
+6. The Aristocrats
+7. The Wedding Singer
+8. Two Weeks Notice
+9. The In-Laws
+10. Midnight Run
+
+
+
+Label:Eraser
+Output: 1. The Ghost and the Darkness
+2. Dead Man Walking
+3. The Exorcism of Emily Rose
+4. Dead Poets Society
+5. The Man from Earth
+6. The Omen
+7. The Return of the Pink Panther
+8. Dirty Deeds
+9. The Specialist
+10. The Princess Diaries 2: Royal Engagement
+
+
+
+Label:Lemony Snicket's A Series of Unfortunate Events
+Output: 1. Being John Malkovich
+2. Old School
+3. Last Holiday
+4. St. Trinian's
+5. The Incredible Hulk
+6. Catch a Fire
+7. The Vanishing
+8. Lemony Snicket's A Series of Unfortunate Events
+9. The Taming of the Shrew
+10. Grosse Pointe Blank
+
+
+
+Label:Tommy Boy
+Output: 1. The Jungle Book
+2. The Mask of Zorro
+3. The Tin Star
+4. Legally Blonde 2: Red, White & Blonde
+5. Coyote Ugly
+6. Go West
+7. Who Framed Roger Rabbit
+8. Patch Adams
+9. Flash Gordon
+10. She's All That
+
+
+
+Label:Legal Eagles
+Output: 1. The Mission
+2. Fargo
+3. Glengarry Glen Ross
+4. Naked
+5. Gaslight
+6. American Graffiti
+7. Belle epoque
+8. Monty Python and the Holy Grail
+9. Grease
+10. Sin City
+
+
+
+Label:All the Little Animals
+Output: 1. Pulp Fiction
+2. The Shining
+3. Casablanca
+4. Paris, Texas
+5. Adaptation.
+6. Iron Man
+7. Forbidden Planet
+8. The Usual Suspects
+9. High Noon
+10. Letters from Iwo Jima
+
+
+
+Label:Six-String Samurai
+Output: 1. The Wrestler
+2. Dirty Pretty Things
+3. The Patriot
+4. The Italian Job
+5. The Crying Game
+6. The Dead Girl
+7. The Missing
+8. The Last Winter
+9. The Blood of Jesus
+10. The Many Adventures of Winnie the Pooh
+
+
+
+Label:Pinocchio
+Output: 1. Juno and the Paycock
+2. Withnail & I
+3. Kids
+4. The Conversation
+5. Rear Window
+6. The Aviator
+7. Pinocchio
+8. Mission: Impossible
+9. Blood Diamond
+10. Labyrinth
+
+
+
+Label:Love Actually
+Output: 1. Into the Wild
+2. Thank You for Smoking
+3. In the Bedroom
+4. Croupier
+5. Paycheck
+6. Traitor
+7. Super Size Me
+8. Animal Factory
+9. Love Actually
+10. The Fountainhead
+
+
+
+Label:When Will I Be Loved
+Output: 1. Before Sunset
+2. Amarcord
+3. Boogie Nights
+4. Blue Hawaii
+5. Coffee and Cigarettes
+6. The Great Mouse Detective
+7. In Cold Blood
+8. Saturday Night Fever
+9. Shrek 2
+10. Still of the Night
+
+
+
+Label:Signs
+Output: 1. The Prestige
+2. Signs
+3. Midnight Cowboy
+4. MASH
+5. The Dead Zone
+6. Love & Basketball
+7. Clockers
+8. The Game
+9. Jésus de Montréal
+10. The Arrival
+
+
+
+Label:Deep Impact
+Output: 1. Million Dollar Baby
+2. The Spanish Prisoner
+3. The Bank Job
+4. Deep Impact
+5. The Day the Earth Stood Still
+6. The Assassination of Richard Nixon
+7. Comedian
+8. The Quiet Earth
+9. Summer Catch
+10. Mad City
+
+
+
+Label:Children of Men
+Output: 1. Children of Men
+2. Close Encounters of the Third Kind
+3. Dead Poets Society
+4. The Virgin Suicides
+5. Sleepwalking
+6. The Black Stallion
+7. Broadway Danny Rose
+8. My Summer of Love
+9. Indian Summer
+10. Things Change
+
+
+
+Label:Pirates of Silicon Valley
+Output: 1. High Plains Drifter
+2. Lifeboat
+3. Marvin's Room
+4. Night Moves
+5. The Court Jester
+6. The Day of the Triffids
+7. Ziggy Stardust and the Spiders from Mars
+8. F/X2
+9. FairyTale: A True Story
+10. The Fall Guy
+
+
+
+Label:The Lord of the Rings: The Fellowship of the Ring
+Output: 1. The Deer Hunter
+2. The Wrestler
+3. The Lost Boys
+4. The Lord of the Rings: The Fellowship of the Ring
+5. Being John Malkovich
+6. Twister
+7. Matilda
+8. Some Like It Hot
+9. A Bronx Tale
+10. Cool Runnings
+
+
+
+Label:A Beautiful Mind
+Output: 1. Before Sunset
+2. Death Becomes Her
+3. Mrs Palfrey at The Claremont
+4. Infamous
+5. 48 Hrs.
+6. Safar e Ghandehar
+7. The Wedding Date
+8. King Solomon's Mines
+9. The Saddest Music in the World
+10. Lucía y el sexo
+
+
+
+Label:Muriel's Wedding
+Output: 1. Into the Wild
+2. Monsters, Inc.
+3. The Crow
+4. The Italian Job
+5. The Stepfather
+6. The Verdict
+7. Scrooge
+8. The Dead Pool
+9. Runaway Jury
+10. Mousehunt
+
+
+
+Label:Brokeback Mountain
+Output: 1. Iron Man
+2. Brokeback Mountain
+3. Halloween 4: The Return of Michael Myers
+4. The Dead Zone
+5. The Upside of Anger
+6. American Pie
+7. The Joy Luck Club
+8. Bridget Jones's Diary
+9. The Replacement Killers
+10. The Proposition
+
+
+
+Label:A Day at the Races
+Output: 1. The Big Lebowski
+2. The Frighteners
+3. The Pianist
+4. Pride & Prejudice
+5. The Ghost and the Darkness
+6. The Wedding Date
+7. The Scarlet Letter
+8. House of D
+9. Ziggy Stardust and the Spiders from Mars
+10. Dark Command
+
+
+
+Label:Spider-Man 3
+Output: 1. Moon Over Parador
+2. My Own Private Idaho
+3. Milk
+4. My Girl
+5. My Blue Heaven
+6. Mr. Magorium's Wonder Emporium
+7. My Name Is Bruce
+8. Beautiful Boxer
+9. Quinceañera
+10. Depuis qu'Otar est parti...
+
+
+
+Label:Ratatouille
+Output: 1. The Incredibles
+2. Ratatouille
+3. The Road to El Dorado
+4. October Sky
+5. Traffic
+6. Secret Window
+7. The Most Dangerous Game
+8. Dolores Claiborne
+9. Secret Agent
+10. The World Is Not Enough
+
+
+
+Label:Star Wars: Episode VI - Return of the Jedi
+Output: 1. Star Wars: Episode VI - Return of the Jedi
+2. Wedding Crashers
+3. Diner
+4. The Lady Eve
+5. Lust och fägring stor
+6. Awakenings
+7. The Eyes of Tammy Faye
+8. Ravenous
+9. Joe's Apartment
+10. The Air Up There
+
+
+
+Label:A Clockwork Orange
+Output: 1. Star Wars: Episode III - Revenge of the Sith
+2. A Clockwork Orange
+3. Blade
+4. Tron
+5. The Texas Chainsaw Massacre
+6. Psycho Beach Party
+7. Belle de jour
+8. Elektra
+9. The Pillow Book
+10. Ragtime
+
+
+
+Label:Sphinx
+Output: 1. The Parent Trap
+2. Black and White
+3. A Perfect Candidate
+4. The Mission
+5. Whispers in the Dark
+6. She-Devil
+7. Out of Time
+8. Sphinx
+9. Pierrot le fou
+10. The Black Dahlia
+
+
+
+Label:Vertical Limit
+Output: 1. Saving Private Ryan
+2. Army of Darkness
+3. The Magnificent Seven
+4. The Whole Nine Yards
+5. The Emerald Forest
+6. Heavenly Creatures
+7. Outrageous Fortune
+8. The Jerk
+9. Die xue jie tou
+10. Hook
+
+
+
+Label:Psycho
+Output: 1. Donnie Darko
+2. Psycho
+3. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+4. The Pursuit of Happyness
+5. The Handmaid's Tale
+6. Crash Dive
+7. The Grapes of Wrath
+8. The Celluloid Closet
+9. Snake Eyes
+10. Casino Royale
+
+
+
+Label:Two Girls and a Guy
+Output: 1. Billy Elliot
+2. Moonstruck
+3. Romancing the Stone
+4. The Nightmare Before Christmas
+5. The Prestige
+6. Moonlight and Valentino
+7. The Watcher
+8. Sleuth
+9. The Prize Winner of Defiance, Ohio
+10. The Cowboy Way
+
+
+
+Label:The Sandlot
+Output: 1. The Dark Knight
+2. Inside Man
+3. The Mosquito Coast
+4. Indiana Jones and the Last Crusade
+5. The Stepford Wives
+6. The Mission
+7. The Cook the Thief His Wife & Her Lover
+8. The Sandlot
+9. The Castle
+10. Different for Girls
+
+
+
+Label:Flightplan
+Output: 1. Sleepless in Seattle
+2. Pirates of the Caribbean: The Curse of the Black Pearl
+3. Halloween
+4. Aliens
+5. House of Wax
+6. The Addams Family
+7. The Recruit
+8. A Perfect Murder
+9. Dracula Has Risen from the Grave
+10. The Darwin Awards
+
+
+
+Label:Road Trip
+Output: 1. Do the Right Thing
+2. Delicatessen
+3. The King and I
+4. The Girl Next Door
+5. The Longest Yard
+6. Wild Man Blues
+7. The Man in the Iron Mask
+8. Bastard Out of Carolina
+9. Follow Me, Boys!
+10. Nancy Drew
+
+
+
+Label:Iron Man
+Output: 1. Iron Man
+2. Aliens
+3. Das Boot
+4. Psycho Beach Party
+5. The Moon-Spinners
+6. The Last Kiss
+7. Love Is All There Is
+8. The Girl Next Door
+9. Underworld: Evolution
+10. The New Guy
+
+
+
+Label:It Came from Hollywood
+Output: 1. The Usual Suspects
+2. The Thomas Crown Affair
+3. The Paper
+4. Broken Arrow
+5. Get Carter
+6. The Ruling Class
+7. The Last Shot
+8. The House of Yes
+9. Broken Blossoms or The Yellow Man and the Girl
+10. The Ref
+
+
+
+Label:Elektra
+Output: 1. Parasite
+2. In Bruges
+3. The Queen
+4. Knocked Up
+5. The Black Stallion
+6. The French Lieutenant's Woman
+7. Cast Away
+8. The Age of Innocence
+9. Dead Again
+10. Say Anything...
+
+
+
+Label:Babylon 5: Thirdspace
+Output: 1. Schindler's List
+2. Dark City
+3. The Illusionist
+4. Henry V
+5. The Last Waltz
+6. The China Syndrome
+7. The Horse Whisperer
+8. Nixon
+9. The Break-Up
+10. The Wackness
+
+
+
+Label:The Ghost and the Darkness
+Output: 1. The Negotiator
+2. Lethal Weapon 3
+3. Old School
+4. The Day After Tomorrow
+5. Gone in Sixty Seconds
+6. Cadillac Records
+7. Hannibal Rising
+8. Wag the Dog
+9. Cry Freedom
+10. The Ghost and the Darkness
+
+
+
+Label:Wonder Boys
+Output: 1. The Last of the Mohicans
+2. Sleepy Hollow
+3. American Psycho
+4. The Wizard of Oz
+5. Elizabeth
+6. The Phantom of the Opera
+7. The Golden Child
+8. Predator
+9. The Kentucky Fried Movie
+10. Labyrinth
+
+
+
+Label:What Women Want
+Output: 1. Futurama: Bender's Game
+2. The Dam Busters
+3. The Minus Man
+4. Machuca
+5. Fellini - Satyricon
+6. The Crow
+7. Indiana Jones and the Kingdom of the Crystal Skull
+8. The Wicker Man
+9. Star Wars: Episode VI - Return of the Jedi
+10. Sen to Chihiro no kamikakushi
+
+
+
+Label:Vantage Point
+Output: 1. La haine
+2. To Live and Die in L.A.
+3. The Harder They Fall
+4. The Hanging Garden
+5. The Picture of Dorian Gray
+6. Dangerous Beauty
+7. Blowup
+8. Cul-de-sac
+9. The Hurricane
+10. Die Hard
+
+
+
+Label:Antz
+Output: 1. The Karate Kid
+2. The Wrestler
+3. The Fifth Element
+4. Hellboy II: The Golden Army
+5. Empire Records
+6. Space Jam
+7. Antz
+8. The Exorcism of Emily Rose
+9. The Assassination of Jesse James by the Coward Robert Ford
+10. The Door in the Floor
+
+
+
+Label:Sink the Bismarck!
+Output: 1. Road to Perdition
+2. The Ipcress File
+3. Shakespeare in Love
+4. The Thin Man
+5. Hoop Dreams
+6. The Best Years of Our Lives
+7. Mean Machine
+8. The Desert Fox: The Story of Rommel
+9. Danton
+10. A Scanner Darkly
+
+
+
+Label:Cassandra's Dream
+Output: 1. Identity
+2. Leaving Las Vegas
+3. How to Lose a Guy in 10 Days
+4. Billy's Hollywood Screen Kiss
+5. The Children of Huang Shi
+6. Eraser
+7. Operation Dumbo Drop
+8. 3:10 to Yuma
+9. The Parent Trap
+10. Teaching Mrs. Tingle
+
+
+
+Label:Die Hard: With a Vengeance
+Output: 1. Die Hard: With a Vengeance
+2. Speed
+3. Cradle 2 the Grave
+4. Bangkok Dangerous
+5. Sniper
+6. The Three Musketeers
+7. Ronin
+8. Hostage
+9. The Warriors
+10. Payback
+
+
+
+Label:Love Actually
+Output: 1. The Darjeeling Limited
+2. Love Actually
+3. Bend It Like Beckham
+4. Hairspray
+5. Repo Man
+6. El mariachi
+7. Noises Off...
+8. Paris brûle-t-il?
+9. The Debut
+10. Le placard
+
+
+
+Label:Casino Royale
+Output: 1. Casino Royale
+2. The Day After Tomorrow
+3. War of the Worlds
+4. Garden State
+5. 12 Angry Men
+6. The Final Countdown
+7. Ryan's Daughter
+8. Birth
+9. The Love Guru
+10. Heaven Can Wait
+
+
+
+Label:Back to the Future Part III
+Output: 1. The Usual Suspects
+2. The Last Seduction
+3. True Confessions
+4. Star Wars: Episode I - The Phantom Menace
+5. Batman Returns
+6. The Fly II
+7. Back to the Future Part III
+8. The Rescuers Down Under
+9. Jersey Girl
+10. Michael Clayton
+
+
+
+Label:The Shawshank Redemption
+Output: 1. The Shawshank Redemption
+2. Die Hard
+3. Harry Potter and the Prisoner of Azkaban
+4. Jurassic Park III
+5. The Life of David Gale
+6. Thumbsucker
+7. Mad Money
+8. The Baxter
+9. Highwaymen
+10. Odds Against Tomorrow
+
+
+
+Label:Ying xiong
+Output: 1. The Shining
+2. One Flew Over the Cuckoo's Nest
+3. The Nightmare Before Christmas
+4. The Devil Wears Prada
+5. The Towering Inferno
+6. The Last Temptation of Christ
+7. Rocky II
+8. Free Willy
+9. City Slickers
+10. An Innocent Man
+
+
+
+Label:Jay and Silent Bob Strike Back
+Output: 1. The Karate Kid
+2. Star Wars
+3. Superman II
+4. Cat on a Hot Tin Roof
+5. The Fast and the Furious: Tokyo Drift
+6. Jay and Silent Bob Strike Back
+7. Mulholland Falls
+8. Mystery Science Theater 3000: The Movie
+9. Monkey Business
+10. Dead Presidents
+
+
+
+Label:Maverick
+Output: 1. Heat
+2. Zodiac
+3. The Big Sleep
+4. Labyrinth
+5. The Hunted
+6. The Scarlet Letter
+7. The Texas Chainsaw Massacre
+8. X-Men
+9. Terminator 3: Rise of the Machines
+10. Body Heat
+
+
+
+Label:Grateful Dawg
+Output: 1. Hannibal
+2. Lethal Weapon 3
+3. Absolute Power
+4. The Rainmaker
+5. In the Line of Fire
+6. The Lost World: Jurassic Park
+7. Daddy Day Care
+8. Cars
+9. Free Willy 2: The Adventure Home
+10. The Man in the Gray Flannel Suit
+
+
+
+Label:Live Free or Die Hard
+Output: 1. The Quiet Earth
+2. The Grass Harp
+3. The Million Dollar Duck
+4. The Freshman
+5. The Beast with Five Fingers
+6. The Plainsman
+7. Dodsworth
+8. Cyborg
+9. Steel Dawn
+10. Shallow Hal
+
+
+
+Label:Rush Hour 2
+Output: 1. Fear and Loathing in Las Vegas
+2. Brokeback Mountain
+3. Alice's Restaurant
+4. Mean Streets
+5. The Last Samurai
+6. Beowulf
+7. Moonstruck
+8. Friends with Money
+9. The Adventures of Rocky & Bullwinkle
+10. Mary Poppins
+
+
+
+Label:My Family
+Output: 1. Mulholland Dr.
+2. The Vanishing
+3. Sherlock Jr.
+4. The Black Dahlia
+5. The Lone Ranger
+6. The White Countess
+7. Lady Jane
+8. Wilde
+9. The Country Girl
+10. The Set-Up
+
+
+
+Label:Halloween II
+Output: 1. The Treasure of the Sierra Madre
+2. They Live
+3. The Butterfly Effect 2
+4. Muppets from Space
+5. Xich lo
+6. Gunga Din
+7. Pure Luck
+8. One False Move
+9. Les rivières pourpres II - Les anges de l'apocalypse
+10. Ready to Rumble
+
+
+
+Label:Vertigo
+Output: 1. Zwartboek
+2. The Company
+3. The Machinist
+4. Evil Under the Sun
+5. The Plague Dogs
+6. MirrorMask
+7. The Lavender Hill Mob
+8. The Big Sleep
+9. Evil Angels
+10. Goldfinger
+
+
+
+Label:Jurassic Park III
+Output: 1. Taxi Driver
+2. Risky Business
+3. The Notebook
+4. Singin' in the Rain
+5. Gremlins
+6. Iron Eagle
+7. The Hand That Rocks the Cradle
+8. The Eye
+9. Unstoppable
+10. Zwartboek
+
+
+
+Label:Mad Max
+Output: 1. Inventing the Abbotts
+2. Malcolm X
+3. King Kong
+4. Une vieille maîtresse
+5. Raggedy Man
+6. Chicken Little
+7. Phone Booth
+8. Lady and the Tramp
+9. Appaloosa
+10. Lucía y el sexo
+
+
+
+Label:Indiana Jones and the Last Crusade
+Output: 1. The Fall
+2. Chasing Amy
+3. The Three Burials of Melquiades Estrada
+4. In a Lonely Place
+5. North Country
+6. Falling Down
+7. Born in East L.A.
+8. High Plains Drifter
+9. The Mask
+10. Nosferatu, eine Symphonie des Grauens
+
+
+
+Label:Superman III
+Output: 1. Return to Me
+2. School for Scoundrels
+3. St. Trinian's
+4. Poolhall Junkies
+5. Flying Down to Rio
+6. Dance with a Stranger
+7. Police Academy 3: Back in Training
+8. La veuve de Saint-Pierre
+9. Gandhi
+10. Mrs. Miniver
+
+
+
+Label:Aliens
+Output: 1. Aliens
+2. Mrs. Doubtfire
+3. There's Something About Mary
+4. Dan in Real Life
+5. Memoirs of a Geisha
+6. Bubble Boy
+7. Grandma's Boy
+8. Jumper
+9. Coming to America
+10. Love Stinks
+
+
+
+Label:Biggie and Tupac
+Output: 1. The Haunting
+2. The Devil's Rejects
+3. The Desperate Hours
+4. The Ice Harvest
+5. The Wolf Man
+6. The Blob
+7. The 6th Day
+8. The Hoax
+9. The Specials
+10. The Phantom of the Opera
+
+
+
+Label:Ghostbusters II
+Output: 1. Changeling
+2. The Court Jester
+3. Last Night
+4. Vampire in Brooklyn
+5. Capricorn One
+6. Superstar
+7. Rat Race
+8. Arn - Tempelriddaren
+9. Birdman of Alcatraz
+10. Riding in Cars with Boys
+
+
+
+Label:Hotel Rwanda
+Output: 1. Anatomy of a Murder
+2. The Bridge
+3. The Manchurian Candidate
+4. The Adventures of Robin Hood
+5. The Mask
+6. The Producers
+7. Mutiny on the Bounty
+8. Great Expectations
+9. Hotel Rwanda
+10. White Noise
+
+
+
+Label:Interview with the Vampire: The Vampire Chronicles
+Output: 1. Léon
+2. Sans soleil
+3. [Rec]
+4. Interview with the Vampire: The Vampire Chronicles
+5. Shadow of a Doubt
+6. Happiness
+7. The Guns of Navarone
+8. Heaven
+9. Elizabethtown
+10. Road to Perdition
+
+
+
+Label:Lucky Number Slevin
+Output: 1. Billy Elliot
+2. The Lake House
+3. Dirty Pretty Things
+4. The Virgin Suicides
+5. The Golden Child
+6. The Hills Have Eyes
+7. Dangerous Liaisons
+8. Syriana
+9. Inside Man
+10. The Time Machine
+
+
+
+Label:Evil Dead II
+Output: 1. Harold and Maude
+2. Evil Dead II
+3. The Dark Crystal
+4. Dogfight
+5. The Miracle Worker
+6. I Am Sam
+7. Anastasia
+8. Jane Eyre
+9. The Glenn Miller Story
+10. The Black Cauldron
+
+
+
+Label:Off the Map
+Output: 1. Monty Python and the Holy Grail
+2. E.T.: The Extra-Terrestrial
+3. The Maltese Falcon
+4. The Ten Commandments
+5. Return to Oz
+6. The Last House on the Left
+7. The Island of Dr. Moreau
+8. Housekeeping
+9. The Faculty
+10. Village of the Damned
+
+
+
+Label:Sairen
+Output: 1. The Princess Bride
+2. Brazil
+3. The Dead Zone
+4. Mulan
+5. Lolita
+6. The Searchers
+7. The Oxford Murders
+8. Possession
+9. The Missouri Breaks
+10. Another Woman
+
+
+
+Label:Brokeback Mountain
+Output: 1. Catch Me If You Can
+2. The Conversation
+3. The Big Sleep
+4. The Karate Kid
+5. The Secret Life of Words
+6. The Last Starfighter
+7. Equilibrium
+8. The Oxford Murders
+9. Brokeback Mountain
+10. Braindead
+
+
+
+Label:The Maltese Falcon
+Output: 1. The Shining
+2. Batman Begins
+3. The Pursuit of Happyness
+4. The Maltese Falcon
+5. Jarhead
+6. Richard III
+7. The Fugitive
+8. Scrooged
+9. The Holiday
+10. Whale Rider
+
+
+
+Label:State Property
+Output: 1. Psycho
+2. Gran Torino
+3. The Texas Chain Saw Massacre
+4. A Streetcar Named Desire
+5. The Children's Hour
+6. Never Talk to Strangers
+7. Conversations with Other Women
+8. River of No Return
+9. An American Crime
+10. A Walk on the Moon
+
+
+
+Label:Banlieue 13
+Output: 1. Slumdog Millionaire
+2. The Jazz Singer
+3. The Lord of the Rings: The Return of the King
+4. Peter Pan
+5. Hook
+6. The Sentinel
+7. The Children of Huang Shi
+8. The Core
+9. The Good Son
+10. Spider
+
+
+
+Label:Beowulf
+Output: 1. The Kid Stays in the Picture
+2. Insignificance
+3. The Gingerbread Man
+4. S.F.W.
+5. Mr. Arkadin
+6. The History Boys
+7. The Haunting
+8. Swimfan
+9. The Star Chamber
+10. The Three Burials of Melquiades Estrada
+
+
+
+Label:Good Morning, Vietnam
+Output: 1. Enter the Dragon
+2. The Manchurian Candidate
+3. Equilibrium
+4. Lord of War
+5. Ali
+6. Flightplan
+7. Death Warrant
+8. Carlito's Way
+9. Good Morning, Vietnam
+10. The Wedding Singer
+
+
+
+Label:Pokémon: The First Movie
+Output: 1. The Queen
+2. True Grit
+3. The Importance of Being Earnest
+4. Silent Hill
+5. The Forbidden Kingdom
+6. Gone in Sixty Seconds
+7. When Harry Met Sally...
+8. Fast Food Nation
+9. The Three Musketeers
+10. Dead Man's Shoes
+
+
+
+Label:One True Thing
+Output: 1. Léon
+2. Blade
+3. Gone with the Wind
+4. Raging Bull
+5. The Lady from Shanghai
+6. San Francisco
+7. Spider-Man 3
+8. Piranha Part Two: The Spawning
+9. Darkman
+10. Wayne's World 2
+
+
+
+Label:300
+Output: 1. A Beautiful Mind
+2. The Last King of Scotland
+3. Akira
+4. Out of the Past
+5. The Hunted
+6. Chasing Amy
+7. House II: The Second Story
+8. The Cincinnati Kid
+9. Enter the Dragon
+10. The Bonfire of the Vanities
+
+
+
+Label:Captain Blood
+Output: 1. It's a Wonderful Life
+2. Singin' in the Rain
+3. The King and I
+4. Whale Rider
+5. The Secret Garden
+6. Pollyanna
+7. A Month by the Lake
+8. My Girl
+9. My Name Is Joe
+10. Walkabout
+
+
+
+Label:Angel Heart
+Output: 1. Testament
+2. The Scarlet and the Black
+3. Evil Under the Sun
+4. The Wind and the Lion
+5. The Proposition
+6. The Baxter
+7. And Then There Were None
+8. Il giardino dei Finzi Contini
+9. Boys Town
+10. Abril Despedaçado
+
+
+
+Label:Amadeus
+Output: 1. Raiders of the Lost Ark
+2. Alien
+3. Amadeus
+4. The Dresser
+5. The Girl Next Door
+6. The Company of Wolves
+7. The Big Clock
+8. The Little Shop of Horrors
+9. The Rachel Papers
+10. The Replacements
+
+
+
+Label:Cop Land
+Output: 1. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+2. Jay and Silent Bob Strike Back
+3. Cop Land
+4. Conspiracy Theory
+5. The Roaring Twenties
+6. Limelight
+7. Star Trek VI: The Undiscovered Country
+8. The Cannonball Run
+9. Bringing Up Baby
+10. Funny Bones
+
+
+
+Label:The Darjeeling Limited
+Output: 1. The Darjeeling Limited
+2. Monsters, Inc.
+3. The Birds
+4. Capote
+5. Dark City
+6. Dead Man's Shoes
+7. Thirteen Conversations About One Thing
+8. Blind Horizon
+9. Cry Freedom
+10. The Craft
+
+
+
+Label:Signs
+Output: 1. Signs
+2. Cujo
+3. The Funhouse
+4. The Eyes of Tammy Faye
+5. The African Queen
+6. The Strange Love of Martha Ivers
+7. The Mummy's Curse
+8. Gray Lady Down
+9. Encino Man
+10. The Dust Factory
+
+
+
+Label:Patch Adams
+Output: 1. Paris, Texas
+2. Persona
+3. The Last Man on Earth
+4. The Texas Chainsaw Massacre 2
+5. Wall Street
+6. Be Kind Rewind
+7. Lion of the Desert
+8. Twister
+9. The Butterfly Effect
+10. Sophie's Choice
+
+
+
+Label:In the Bedroom
+Output: 1. The Birds
+2. Murder on the Orient Express
+3. The Dark Crystal
+4. Akira
+5. The Story of Us
+6. In the Bedroom
+7. Clear and Present Danger
+8. War
+9. The Moguls
+10. Something Wicked This Way Comes
+
+
+
+Label:Tropa de Elite
+Output: 1. Lolita
+2. 25th Hour
+3. Ball of Fire
+4. Senior Trip
+5. Airheads
+6. Normal
+7. Rukajärven tie
+8. Steal This Movie
+9. Thunderball
+10. The Field
+
+
+
+Label:Con Air
+Output: 1. Out of Sight
+2. Death Wish
+3. Red Dawn
+4. The Freshman
+5. Boat Trip
+6. Surviving the Game
+7. Split Second
+8. A Guide to Recognizing Your Saints
+9. From Here to Eternity
+10. Last Action Hero
+
+
+
+Label:8 femmes
+Output: 1. True Romance
+2. The Mission
+3. The Treasure of the Sierra Madre
+4. Fargo
+5. The Butcher Boy
+6. Caché
+7. The Pelican Brief
+8. The Iron Giant
+9. Straw Dogs
+10. The Man Without a Face
+
+
+
+Label:The Village
+Output: 1. Psycho III
+2. Manhunter
+3. Vampire Hunter D: Bloodlust
+4. Monster in a Box
+5. Bob Roberts
+6. The Boys of Baraka
+7. La peau douce
+8. Two Girls and a Guy
+9. Moving
+10. How to Get the Man's Foot Outta Your Ass
+
+
+
+Label:Crimes and Misdemeanors
+Output: 1. Chinjeolhan geumjassi
+2. Quick Change
+3. Six Days Seven Nights
+4. Stanley & Iris
+5. Bull Durham
+6. Pauline à la plage
+7. Darkness Falls
+8. Romero
+9. Lion of the Desert
+10. Out of Africa
+
+
+
+Label:Children of Men
+Output: 1. Children of Men
+2. Groundhog Day
+3. The Princess Bride
+4. The Thing About My Folks
+5. The Breakfast Club
+6. Black Narcissus
+7. Hamlet
+8. Kiss of the Spider Woman
+9. Death of a Salesman
+10. The Pink Panther Strikes Again
+
+
+
+Label:The Prestige
+Output: 1. The Truman Show
+2. Office Space
+3. The Prestige
+4. Zoolander
+5. The Karate Kid, Part II
+6. Stargate
+7. The Last Waltz
+8. Miller's Crossing
+9. Paranoid Park
+10. Dot the I
+
+
+
+Label:The Pelican Brief
+Output: 1. Twelve Monkeys
+2. Mulholland Falls
+3. Scarface
+4. Stripes
+5. The Lost Boys
+6. The Devil's Rejects
+7. Broken Arrow
+8. Monkey Business
+9. The Pelican Brief
+10. High School Musical
+
+
+
+Label:Every Which Way But Loose
+Output: 1. Stalker
+2. The Descent
+3. Battlestar Galactica: Razor
+4. Edtv
+5. Pleasantville
+6. The Manhattan Project
+7. Bright Lights, Big City
+8. The Canterville Ghost
+9. High School Musical 3: Senior Year
+10. The Day the Earth Stood Still
+
+
+
+Label:Bom yeoreum gaeul gyeoul geurigo bom
+Output: 1. Taxi Driver
+2. Indiana Jones and the Kingdom of the Crystal Skull
+3. The Laramie Project
+4. The Brave One
+5. The Crocodile Hunter: Collision Course
+6. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+7. The Crow: Wicked Prayer
+8. The Trumpet of the Swan
+9. The Book of Life
+10. The Boys in Company C
+
+
+
+Label:Dead Calm
+Output: 1. Into the Wild
+2. Some Like It Hot
+3. Cry Freedom
+4. The Good Shepherd
+5. Dead Man
+6. Bonnie and Clyde
+7. Dead Calm
+8. Caché
+9. The Oxford Murders
+10. The Rescuers Down Under
+
+
+
+Label:Other Voices, Other Rooms
+Output: 1. L.A. Confidential
+2. Clockers
+3. Kagemusha
+4. Jaws
+5. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+6. Galaxy Quest
+7. Rambo III
+8. Field of Dreams
+9. Bull Durham
+10. Pinocchio
+
+
+
+Label:Impostor
+Output: 1. The Curse of the Jade Scorpion
+2. To Be or Not to Be
+3. The Majestic
+4. Haunted Honeymoon
+5. Plunkett & Macleane
+6. The Castle
+7. Avanti!
+8. Nobody's Fool
+9. Palmetto
+10. Boxcar Bertha
+
+
+
+Label:Event Horizon
+Output: 1. Ocean's Thirteen
+2. Deja Vu
+3. Good Bye Lenin!
+4. The American President
+5. Click
+6. Vertical Limit
+7. Midnight Express
+8. Event Horizon
+9. The Man Who Wasn't There
+10. The Love Bug
+
+
+
+Label:Miss Congeniality
+Output: 1. The Right Stuff
+2. The Portrait of a Lady
+3. The Farmer's Wife
+4. Romy and Michele's High School Reunion
+5. Miss Congeniality
+6. Grosse Pointe Blank
+7. Captain Blood
+8. In Good Company
+9. Men at Work
+10. Arthur et les Minimoys
+
+
+
+Label:Shichinin no samurai
+Output: 1. The Apartment
+2. High Noon
+3. Before Sunrise
+4. Il postino
+5. Shichinin no samurai
+6. The Prince of Tides
+7. Indiana Jones and the Temple of Doom
+8. Midnight in the Garden of Good and Evil
+9. The Last Temptation of Christ
+10. The Man Who Came to Dinner
+
+
+
+Label:Lars and the Real Girl
+Output: 1. Jaws
+2. Lars and the Real Girl
+3. Empire Records
+4. The Importance of Being Earnest
+5. The Client
+6. The Dish
+7. The Wild
+8. The Brave Little Toaster
+9. Sommarnattens leende
+10. La notte di San Lorenzo
+
+
+
+Label:Children of Men
+Output: 1. Children of Men
+2. The French Connection
+3. The Rocky Horror Picture Show
+4. The Da Vinci Code
+5. L.A. Confidential
+6. The Exorcist III
+7. The Curse of the Jade Scorpion
+8. Das Leben der Anderen
+9. Les amants du Pont-Neuf
+10. Love in the Time of Cholera
+
+
+
+Label:Wallace & Gromit in The Wrong Trousers
+Output: 1. The Sound of Music
+2. American Beauty
+3. Vanilla Sky
+4. The Dancer Upstairs
+5. L'avventura
+6. Barton Fink
+7. In the Mouth of Madness
+8. High School Musical
+9. One Hundred and One Dalmatians
+10. The Kentuckian
+
+
+
+Label:The Usual Suspects
+Output: 1. The Usual Suspects
+2. Das Boot
+3. Cool Hand Luke
+4. The Thomas Crown Affair
+5. The Cable Guy
+6. Chitty Chitty Bang Bang
+7. The Wackness
+8. Insomnia
+9. Joy Ride
+10. Spy Kids 2: Island of Lost Dreams
+
+
+
+Label:Heaven & Earth
+Output: 1. Les roseaux sauvages
+2. The Odd Couple
+3. The Jane Austen Book Club
+4. Hamlet
+5. Malcolm X
+6. Scarface
+7. Yi yi
+8. Monster-in-Law
+9. Heat
+10. Oldeuboi
+
+
+
+Label:Beowulf
+Output: 1. Vertigo
+2. 12 Angry Men
+3. Some Like It Hot
+4. Beowulf
+5. The Killing
+6. The Haunting
+7. The Hand That Rocks the Cradle
+8. The Curse of the Jade Scorpion
+9. Auntie Mame
+10. Lust for Life
+
+
+
+Label:A Clockwork Orange
+Output: 1. The Fugitive
+2. A Clockwork Orange
+3. The Bourne Identity
+4. The Thing Called Love
+5. Star 80
+6. The Funeral
+7. The Cassandra Crossing
+8. Ladies in Lavender
+9. The United States of Leland
+10. The Born Losers
+
+
+
+Label:The Ladykillers
+Output: 1. Twelve Monkeys
+2. V for Vendetta
+3. Room at the Top
+4. Repulsion
+5. Every Thing You Always Wanted to Know About Sex * But Were Afraid to Ask
+6. Monkeybone
+7. High Crimes
+8. Her Alibi
+9. The Apartment
+10. Westworld
+
+
+
+Label:Hitch
+Output: 1. The American President
+2. Million Dollar Baby
+3. Gran Torino
+4. The Karate Kid
+5. Hitch
+6. Dead Again
+7. Unforgiven
+8. The Handmaid's Tale
+9. Superman
+10. The Quiet Man
+
+
+
+Label:Hitch
+Output: 1. Chinatown
+2. The Girl Next Door
+3. Girl, Interrupted
+4. Lord of the Flies
+5. The Secret Life of Walter Mitty
+6. The Living Daylights
+7. Badlands
+8. The New World
+9. Frankenstein
+10. The Great Mouse Detective
+
+
+
+Label:A History of Violence
+Output: 1. A History of Violence
+2. The Stepford Wives
+3. The Ruins
+4. High School Musical 3: Senior Year
+5. Good Morning, Babylon
+6. The Man with Two Brains
+7. Sweet Home Alabama
+8. The Taming of the Shrew
+9. Strange Cargo
+10. National Velvet
+
+
+
+Label:Beyond the Valley of the Dolls
+Output: 1. The Godfather
+2. A Bridge Too Far
+3. The Lost World: Jurassic Park
+4. Children of the Corn
+5. The Mission
+6. One False Move
+7. Reversal of Fortune
+8. Death of a Salesman
+9. The Last Picture Show
+10. Vicky Cristina Barcelona
+
+
+
+Label:Snoopy Come Home
+Output: 1. The Devil's Rejects
+2. I Am Legend
+3. The Man Without a Face
+4. P.S. I Love You
+5. The Last Supper
+6. Inland Empire
+7. Hercules in New York
+8. The Sentinel
+9. Spy Game
+10. Southern Comfort
+
+
+
+Label:American Pie Presents The Naked Mile
+Output: 1. Spider-Man
+2. Mad Max 2
+3. Casino
+4. Dressed to Kill
+5. The Forgotten
+6. Insomnia
+7. Big Trouble in Little China
+8. Freddy vs. Jason
+9. Money Train
+10. The Day the Earth Caught Fire
+
+
+
+Label:Carandiru
+Output: 1. The Caveman's Valentine
+2. Carandiru
+3. True Lies
+4. Matinee
+5. Night at the Museum
+6. The Vanishing
+7. Hidalgo
+8. The Pelican Brief
+9. Jarhead
+10. America's Sweethearts
+
+
+
+Label:Caddyshack
+Output: 1. Black Hawk Down
+2. Munich
+3. Fight Club
+4. Babel
+5. The Mummy Returns
+6. Titanic
+7. Mad Max Beyond Thunderdome
+8. X-Men
+9. The Big Chill
+10. Girl, Interrupted
+
+
+
+Label:Before the Devil Knows You're Dead
+Output: 1. Withnail & I
+2. Trois couleurs: Rouge
+3. Mimic
+4. Born Rich
+5. Wet Hot American Summer
+6. Guadalcanal Diary
+7. Arthur! And the Square Knights of the Round Table
+8. Native Son
+9. From Hell
+10. RocketMan
+
+
+
+Label:The Missing
+Output: 1. Ghost World
+2. Drugstore Cowboy
+3. Alice Doesn't Live Here Anymore
+4. The Wind That Shakes the Barley
+5. Death Race
+6. The Missing
+7. Three Kings
+8. The Girl Next Door
+9. The Salton Sea
+10. Running with Scissors
+
+
+
+Label:It Came from Outer Space
+Output: 1. The New World
+2. Blade II
+3. The Interpreter
+4. Shattered Glass
+5. The Mexican
+6. Phenomenon
+7. Speed Racer
+8. The Purple Rose of Cairo
+9. The Right Stuff
+10. Sunshine Cleaning
+
+
+
+Label:The Terminal
+Output: 1. The Terminal
+2. Moonraker
+3. A Good Year
+4. Blue Sky
+5. The Cook the Thief His Wife & Her Lover
+6. Nosferatu: Phantom der Nacht
+7. A Man Called Horse
+8. Young Frankenstein
+9. Blood Work
+10. Richard III
+
+
+
+Label:Charlotte Gray
+Output: 1. The Godfather
+2. Atonement
+3. The Others
+4. The Legend of Zorro
+5. Mr. Smith Goes to Washington
+6. The Hunchback of Notre Dame
+7. Ghost World
+8. The Dark Crystal
+9. Benny & Joon
+10. The Grapes of Wrath
+
+
+
+Label:Det sjunde inseglet
+Output: 1. Children of Men
+2. A History of Violence
+3. The Return of the Living Dead
+4. Dawn of the Dead
+5. Tenebre
+6. Gwoemul
+7. Mongol
+8. Unforgiven
+9. The Producers
+10. Space Cowboys
+
+
+
+Label:The Great Muppet Caper
+Output: 1. Office Space
+2. Mars Attacks!
+3. Panic Room
+4. The Princess Diaries
+5. The Wedding Planner
+6. The Magnificent Seven Ride!
+7. About a Boy
+8. The Time Machine
+9. Miami Vice
+10. Maybe Baby
+
+
+
+Label:Star Wars: Episode I - The Phantom Menace
+Output: 1. Star Wars: Episode I - The Phantom Menace
+2. The Last Emperor
+3. The Stepford Wives
+4. Ghost World
+5. The Color Purple
+6. The Interpreter
+7. Final Destination
+8. The Waterboy
+9. United 93
+10. Funny Farm
+
+
+
