@@ -59,7 +59,7 @@ class GPTenv(gym.Env): #bandit
 
     def get_reward(self, prompt, label):
         openai.api_key = 'YOURKEY'
-        def get_completion(prompt, model="gpt-3.5-turbo"):
+        def get_completion(prompt, model="GPT-MODEL-NAME"):
             messages = [{"role": "assistant", "content": prompt}]
             response = openai.ChatCompletion.create(
                 model=model,
