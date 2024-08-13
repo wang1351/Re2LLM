@@ -9,7 +9,7 @@ Session-based Recommendation].
 - Python >= 3.6
 - PyTorch == 2.1.0
 - transformers == 4.30.2
-- numpy 1.24.4
+- numpy == 1.24.4
 - openai == 0.28.0
 - gym == 0.21.0
 
@@ -25,8 +25,6 @@ Session-based Recommendation].
 - Run Reflective Exploration.ipynb
 
 ## Reinforcement Utilization Module
-
-### Training
 
 ```
 python PPO_discrete_main.py --savedir {path_to_test_model} --dataset {movie, game}
