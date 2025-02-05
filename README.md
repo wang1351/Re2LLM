@@ -1,5 +1,5 @@
 # Re2LLM
-This is PyTorch implementation of our submission [Re2LLM: Reflective Reinforcement Large Language Model for
+This is PyTorch implementation of our AAAI'25 paper [Re2LLM: Reflective Reinforcement Large Language Model for
 Session-based Recommendation].
 
 ## Architecture of Re2LLM
